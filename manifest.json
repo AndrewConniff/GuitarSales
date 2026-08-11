@@ -1,0 +1,271 @@
+{
+  "demoName": "GuitarSales",
+  "repository": "AndrewConniff/GuitarSales",
+  "status": "Local preview pending public upload approval",
+  "classification": "Public",
+  "fictionalMicrosoftFakeCompany": "Northstar Acoustic Works",
+  "createdDate": "2026-08-11",
+  "technologyFocus": [
+    "Microsoft 365 Copilot Analyst agent",
+    "Microsoft 365 Copilot Word agent",
+    "Microsoft 365 Copilot PowerPoint agent",
+    "SharePoint agent",
+    "Microsoft 365 Copilot chat agent"
+  ],
+  "disclaimer": "This demo uses a fictional Microsoft Fake Company created for demonstration purposes. Any resemblance to real organizations, people, products, services, or data is coincidental. Do not use customer confidential information in this repository.",
+  "publicSources": [
+    {
+      "title": "Martin Guitar public company overview",
+      "url": "https://www.martinguitar.com/",
+      "usage": "Public inspiration for acoustic craftsmanship, strings, ukulele heritage, player journey positioning, and manufacturing themes."
+    },
+    {
+      "title": "NAMM public news on music-products tariffs",
+      "url": "https://www.namm.org/news",
+      "usage": "Public inspiration for supply-chain and tariff-risk talking points in the fictional market brief."
+    },
+    {
+      "title": "Music Trades public homepage excerpt",
+      "url": "https://musictrades.com/",
+      "usage": "Public inspiration for music-products import pressure and tariff uncertainty themes."
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "AI-CONTENT-DECLARATION.md",
+      "purpose": "AI transparency and public-data declaration.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "DEMO-INSTRUCTIONS.docx",
+      "purpose": "Word presenter guide with prompts and timing.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "DEMO-INSTRUCTIONS.md",
+      "purpose": "Primary presenter guide with prompts and timing.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "LICENSE",
+      "purpose": "Repository supporting artifact.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "README.md",
+      "purpose": "Repository supporting artifact.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "artifacts/Northstar_Acoustic_Works_Sales_Dashboard_Template.xlsx",
+      "purpose": "Excel dashboard template for Analyst agent chaining.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "artifacts/Northstar_GuitarSales_Meeting_Deck.pptx",
+      "purpose": "PowerPoint agent starter deck.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "artifacts/Northstar_Product_Build_Guidelines.docx",
+      "purpose": "Chat agent grounding document for product build guidance.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "artifacts/Northstar_Sales_Brief_Template.docx",
+      "purpose": "Word agent sales brief template.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "artifacts/Northstar_Shop_Accident_Response_SOP.docx",
+      "purpose": "SharePoint SOP agent grounding document.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "artifacts/Northstar_Wood_Supplies_Availability.xlsx",
+      "purpose": "Synthetic wood inventory and availability grounding workbook.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/all_regions_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/midwest_regional_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/midwest_regional_sales.xlsx",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/northeast_regional_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/northeast_regional_sales.xlsx",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/southeast_regional_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/southeast_regional_sales.xlsx",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/southwest_regional_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/southwest_regional_sales.xlsx",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/west_regional_sales.csv",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "sample-data/west_regional_sales.xlsx",
+      "purpose": "Synthetic regional sales data for Analyst agent ingestion.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "setup/agent_setup_notes.md",
+      "purpose": "Repository supporting artifact.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": [
+        "https://www.martinguitar.com/",
+        "https://www.namm.org/news",
+        "https://musictrades.com/"
+      ]
+    },
+    {
+      "path": "setup/chat_build_planning_agent_config.json",
+      "purpose": "Machine-readable agent setup configuration.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    },
+    {
+      "path": "setup/sharepoint_safety_agent_config.json",
+      "purpose": "Machine-readable agent setup configuration.",
+      "classification": "Public",
+      "generatedSampleContent": true,
+      "aiGeneratedContentPresent": true,
+      "sourceUrlsUsedForInspiration": []
+    }
+  ]
+}

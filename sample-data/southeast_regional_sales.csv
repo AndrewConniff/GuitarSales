@@ -1,0 +1,505 @@
+OrderID,OrderDate,FiscalQuarter,Region,Channel,Dealer,Salesperson,Product,Category,MaterialOrType,Units,UnitPrice,DiscountRate,Revenue,COGS,GrossMargin,BackorderRisk,Notes
+NAW-10028,2025-01-01,FY25 Q1,Southeast,E-commerce,Blue Ridge Music,Dana Hart,Foundry Custom,Guitar,Adirondack/Maple,23,3258.27,0.03,74940.21,36720.7,38219.51,Medium,Accessory attach opportunity
+NAW-10029,2025-01-01,FY25 Q1,Southeast,Dealer,Riverbend Instruments,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,14,318.29,0.05,4456.06,2718.2,1737.86,Medium,Back-to-school promotion
+NAW-10030,2025-01-01,FY25 Q1,Southeast,Artist Relations,Blue Ridge Music,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1097.4,0.12,37311.6,21640.73,15670.87,Medium,Holiday prebuild
+NAW-10031,2025-01-01,FY25 Q1,Southeast,E-commerce,Pacific Pick House,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,18,3359.04,0,60462.72,29626.73,30835.99,Medium,Back-to-school promotion
+NAW-10032,2025-01-01,FY25 Q1,Southeast,Education,Blue Ridge Music,Riley Stone,Coated Lifespan Strings,Accessory,String set,26,21.89,0.05,569.14,221.96,347.18,Low,Dealer replenishment
+NAW-10033,2025-01-01,FY25 Q1,Southeast,Dealer,Pacific Pick House,Priya Shah,Trail Mini,Guitar,HPL/Sapele,8,464.67,0.03,3717.36,2379.11,1338.25,High,Dealer replenishment
+NAW-10034,2025-01-01,FY25 Q1,Southeast,E-commerce,Desert Tone Co.,Taylor Brooks,Summit Grand Auditorium,Guitar,Spruce/Walnut,32,1350.84,0.12,43226.88,24207.05,19019.83,Medium,Artist clinic follow-up
+NAW-10035,2025-01-01,FY25 Q1,Southeast,Dealer,Desert Tone Co.,Jordan Lee,Stage Cutaway,Guitar,Spruce/Ovangkol,31,1093.49,0.05,33898.19,19999.93,13898.26,High,Dealer replenishment
+NAW-10036,2025-01-01,FY25 Q1,Southeast,Artist Relations,Main Street Frets,Priya Shah,Phosphor Bronze Strings,Accessory,String set,49,14.59,0.05,714.91,300.26,414.65,Low,Accessory attach opportunity
+NAW-10037,2025-01-01,FY25 Q1,Southeast,Artist Relations,Bayfront Studio Gear,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,2,455.09,0.05,910.18,582.52,327.66,Low,Artist clinic follow-up
+NAW-10038,2025-01-01,FY25 Q1,Southeast,Distributor,Soundpost Music,Priya Shah,Humidifier Kit,Accessory,Care,79,27.0,0.03,2133.0,917.19,1215.81,Medium,Back-to-school promotion
+NAW-10039,2025-01-01,FY25 Q1,Southeast,Education,Metro Music Supply,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,125,13.52,0.12,1690.0,709.8,980.2,Low,Accessory attach opportunity
+NAW-10040,2025-01-01,FY25 Q1,Southeast,Dealer,Bayfront Studio Gear,Morgan Evans,Coated Lifespan Strings,Accessory,String set,136,21.89,0.05,2977.04,1161.05,1815.99,Low,Holiday prebuild
+NAW-10041,2025-01-01,FY25 Q1,Southeast,Education,Blue Ridge Music,Samira Khan,Coated Lifespan Strings,Accessory,String set,70,23.04,0,1612.8,628.99,983.81,High,Dealer replenishment
+NAW-10042,2025-01-01,FY25 Q1,Southeast,E-commerce,Riverbend Instruments,Alex Rivera,Premium Strap,Accessory,Accessory,129,45.63,0.03,5886.27,2707.68,3178.59,Medium,Holiday prebuild
+NAW-10043,2025-01-01,FY25 Q1,Southeast,E-commerce,Copper Canyon Guitars,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,35,1116.51,0.03,39077.85,23055.93,16021.92,Medium,Accessory attach opportunity
+NAW-10044,2025-01-01,FY25 Q1,Southeast,Dealer,Cedar Hall Music,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,13,1116.51,0.03,14514.63,8563.63,5951.0,Medium,Holiday prebuild
+NAW-10045,2025-01-01,FY25 Q1,Southeast,Distributor,Desert Tone Co.,Dana Hart,Northstar Ukulele,Instrument,Mahogany,32,318.29,0.05,10185.28,6213.02,3972.26,Low,Back-to-school promotion
+NAW-10046,2025-01-01,FY25 Q1,Southeast,Artist Relations,Cedar Hall Music,Dana Hart,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1097.4,0.12,37311.6,21640.73,15670.87,Medium,Accessory attach opportunity
+NAW-10047,2025-01-01,FY25 Q1,Southeast,Education,Soundpost Music,Taylor Brooks,Summit Grand Auditorium,Guitar,Spruce/Walnut,28,1350.84,0.12,37823.52,21181.17,16642.35,Low,Back-to-school promotion
+NAW-10048,2025-01-01,FY25 Q1,Southeast,Dealer,Main Street Frets,Jordan Lee,Premium Strap,Accessory,Accessory,93,43.28,0.08,4025.04,1851.52,2173.52,Medium,Holiday prebuild
+NAW-10049,2025-01-01,FY25 Q1,Southeast,E-commerce,Cedar Hall Music,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,79,13.52,0.12,1068.08,448.59,619.49,Low,Accessory attach opportunity
+NAW-10050,2025-01-01,FY25 Q1,Southeast,Dealer,Copper Canyon Guitars,Jordan Lee,Humidifier Kit,Accessory,Care,137,27.84,0,3814.08,1640.05,2174.03,Low,Artist clinic follow-up
+NAW-10051,2025-01-01,FY25 Q1,Southeast,Dealer,Prairie Note,Elliot Chen,Foundry Custom,Guitar,Adirondack/Maple,28,3258.27,0.03,91231.56,44703.46,46528.1,Low,Holiday prebuild
+NAW-10052,2025-01-01,FY25 Q1,Southeast,E-commerce,Cedar Hall Music,Riley Stone,Harbor OM,Guitar,Spruce/Rosewood,17,1731.89,0.05,29442.13,15898.75,13543.38,Medium,Back-to-school promotion
+NAW-10053,2025-01-01,FY25 Q1,Southeast,Dealer,Bayfront Studio Gear,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,16,1209.63,0.03,19354.08,11225.37,8128.71,Medium,Accessory attach opportunity
+NAW-10054,2025-01-01,FY25 Q1,Southeast,Artist Relations,Desert Tone Co.,Dana Hart,Premium Strap,Accessory,Accessory,72,47.04,0,3386.88,1557.96,1828.92,High,Accessory attach opportunity
+NAW-10055,2025-01-01,FY25 Q1,Southeast,E-commerce,Soundpost Music,Priya Shah,Coated Lifespan Strings,Accessory,String set,78,22.35,0.03,1743.3,679.89,1063.41,Low,Back-to-school promotion
+NAW-10168,2025-01-01,FY25 Q1,Southeast,Artist Relations,Bayfront Studio Gear,Taylor Brooks,Trail Mini,Guitar,HPL/Sapele,11,483.26,0.03,5315.86,3402.15,1913.71,Low,Back-to-school promotion
+NAW-10169,2025-01-01,FY25 Q1,Southeast,Artist Relations,Metro Music Supply,Morgan Evans,Harbor OM,Guitar,Spruce/Rosewood,24,1706.37,0.1,40952.88,22114.56,18838.32,High,Holiday prebuild
+NAW-10170,2025-01-01,FY25 Q1,Southeast,Education,Cedar Hall Music,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,25,1296.92,0,32423.0,18805.34,13617.66,Low,Back-to-school promotion
+NAW-10171,2025-01-01,FY25 Q1,Southeast,E-commerce,Cedar Hall Music,Elliot Chen,Humidifier Kit,Accessory,Care,30,26.64,0.08,799.2,343.66,455.54,Medium,Back-to-school promotion
+NAW-10172,2025-01-01,FY25 Q1,Southeast,Distributor,Riverbend Instruments,Jordan Lee,Humidifier Kit,Accessory,Care,49,26.06,0.1,1276.94,549.08,727.86,Low,Dealer replenishment
+NAW-10173,2025-01-01,FY25 Q1,Southeast,Distributor,Desert Tone Co.,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,110,15.5,0.03,1705.0,716.1,988.9,High,Back-to-school promotion
+NAW-10174,2025-01-01,FY25 Q1,Southeast,Artist Relations,Metro Music Supply,Priya Shah,Northstar Ukulele,Instrument,Mahogany,38,331.02,0.05,12578.76,7673.04,4905.72,Medium,Holiday prebuild
+NAW-10175,2025-01-01,FY25 Q1,Southeast,E-commerce,Blue Ridge Music,Elliot Chen,Northstar Ukulele,Instrument,Mahogany,27,313.6,0.1,8467.2,5164.99,3302.21,Medium,Artist clinic follow-up
+NAW-10176,2025-01-01,FY25 Q1,Southeast,Dealer,Soundpost Music,Taylor Brooks,Premium Strap,Accessory,Accessory,22,43.05,0.12,947.1,435.67,511.43,Medium,Artist clinic follow-up
+NAW-10177,2025-01-01,FY25 Q1,Southeast,Education,Bayfront Studio Gear,Taylor Brooks,Northstar Ukulele,Instrument,Mahogany,28,313.6,0.1,8780.8,5356.29,3424.51,Low,Accessory attach opportunity
+NAW-10178,2025-01-01,FY25 Q1,Southeast,E-commerce,Pacific Pick House,Jordan Lee,Harbor OM,Guitar,Spruce/Rosewood,4,1744.28,0.08,6977.12,3767.64,3209.48,Medium,Accessory attach opportunity
+NAW-10179,2025-01-01,FY25 Q1,Southeast,Education,Copper Canyon Guitars,Morgan Evans,Hardshell Case,Accessory,Case,56,192.41,0.12,10774.96,7003.72,3771.24,Low,Back-to-school promotion
+NAW-10180,2025-01-01,FY25 Q1,Southeast,Artist Relations,Soundpost Music,Priya Shah,Premium Strap,Accessory,Accessory,149,47.45,0.03,7070.05,3252.22,3817.83,Medium,Dealer replenishment
+NAW-10181,2025-01-01,FY25 Q1,Southeast,Education,Desert Tone Co.,Riley Stone,Trail Mini,Guitar,HPL/Sapele,24,438.42,0.12,10522.08,6734.13,3787.95,Low,Holiday prebuild
+NAW-10182,2025-01-01,FY25 Q1,Southeast,Distributor,Metro Music Supply,Riley Stone,Harbor OM,Guitar,Spruce/Rosewood,21,1744.28,0.08,36629.88,19780.14,16849.74,Low,Holiday prebuild
+NAW-10183,2025-01-01,FY25 Q1,Southeast,Distributor,Main Street Frets,Priya Shah,Phosphor Bronze Strings,Accessory,String set,154,14.06,0.12,2165.24,909.4,1255.84,Low,Dealer replenishment
+NAW-10184,2025-01-01,FY25 Q1,Southeast,Artist Relations,Lakeside Strings,Jordan Lee,Phosphor Bronze Strings,Accessory,String set,41,15.97,0,654.77,275.0,379.77,High,Back-to-school promotion
+NAW-10185,2025-01-01,FY25 Q1,Southeast,E-commerce,Metro Music Supply,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,3,3493.4,0,10480.2,5135.3,5344.9,Medium,Artist clinic follow-up
+NAW-10186,2025-01-01,FY25 Q1,Southeast,Artist Relations,Cedar Hall Music,Elliot Chen,Trail Mini,Guitar,HPL/Sapele,23,438.42,0.12,10083.66,6453.54,3630.12,Low,Dealer replenishment
+NAW-10187,2025-01-01,FY25 Q1,Southeast,E-commerce,Bayfront Studio Gear,Morgan Evans,Stage Cutaway,Guitar,Spruce/Ovangkol,37,1197.08,0,44291.96,26132.26,18159.7,Low,Back-to-school promotion
+NAW-10188,2025-01-01,FY25 Q1,Southeast,Distributor,Desert Tone Co.,Jordan Lee,Harbor OM,Guitar,Spruce/Rosewood,24,1801.16,0.05,43227.84,23343.03,19884.81,High,Holiday prebuild
+NAW-10189,2025-01-01,FY25 Q1,Southeast,Dealer,Blue Ridge Music,Samira Khan,Trail Mini,Guitar,HPL/Sapele,9,473.29,0.05,4259.61,2726.15,1533.46,Low,Back-to-school promotion
+NAW-10190,2025-01-01,FY25 Q1,Southeast,Dealer,Lakeside Strings,Jordan Lee,Foundry Custom,Guitar,Adirondack/Maple,10,3074.19,0.12,30741.9,15063.53,15678.37,Medium,Holiday prebuild
+NAW-10191,2025-01-01,FY25 Q1,Southeast,Distributor,Blue Ridge Music,Elliot Chen,Phosphor Bronze Strings,Accessory,String set,24,14.7,0.08,352.8,148.18,204.62,Low,Accessory attach opportunity
+NAW-10192,2025-01-01,FY25 Q1,Southeast,Distributor,Main Street Frets,Priya Shah,Humidifier Kit,Accessory,Care,63,25.48,0.12,1605.24,690.25,914.99,Medium,Artist clinic follow-up
+NAW-10193,2025-01-01,FY25 Q1,Southeast,Education,Main Street Frets,Priya Shah,Phosphor Bronze Strings,Accessory,String set,47,14.38,0.1,675.86,283.86,392.0,High,Dealer replenishment
+NAW-10194,2025-01-01,FY25 Q1,Southeast,E-commerce,Soundpost Music,Elliot Chen,Phosphor Bronze Strings,Accessory,String set,147,14.38,0.1,2113.86,887.82,1226.04,Low,Holiday prebuild
+NAW-10195,2025-01-01,FY25 Q1,Southeast,Dealer,Pacific Pick House,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,35,1839.08,0.03,64367.8,34758.61,29609.19,Low,Artist clinic follow-up
+NAW-10308,2025-03-01,FY25 Q1,Southeast,E-commerce,Prairie Note,Jordan Lee,Trail Mini,Guitar,HPL/Sapele,17,512.23,0,8707.91,5573.06,3134.85,Low,Artist clinic follow-up
+NAW-10309,2025-03-01,FY25 Q1,Southeast,E-commerce,Main Street Frets,Samira Khan,Hardshell Case,Accessory,Case,129,206.82,0.08,26679.78,17341.86,9337.92,High,Holiday prebuild
+NAW-10310,2025-03-01,FY25 Q1,Southeast,Artist Relations,Cedar Hall Music,Taylor Brooks,Summit Grand Auditorium,Guitar,Spruce/Walnut,26,1510.08,0.08,39262.08,21986.76,17275.32,Medium,Artist clinic follow-up
+NAW-10311,2025-03-01,FY25 Q1,Southeast,Distributor,Cedar Hall Music,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,130,15.93,0.03,2070.9,869.78,1201.12,Low,Dealer replenishment
+NAW-10312,2025-03-01,FY25 Q1,Southeast,Education,Main Street Frets,Priya Shah,Trail Mini,Guitar,HPL/Sapele,11,450.76,0.12,4958.36,3173.35,1785.01,Medium,Holiday prebuild
+NAW-10313,2025-03-01,FY25 Q1,Southeast,Distributor,Riverbend Instruments,Riley Stone,Premium Strap,Accessory,Accessory,97,50.3,0,4879.1,2244.39,2634.71,Medium,Back-to-school promotion
+NAW-10314,2025-03-01,FY25 Q1,Southeast,Distributor,Metro Music Supply,Priya Shah,Hardshell Case,Accessory,Case,74,206.82,0.08,15304.68,9948.04,5356.64,Medium,Artist clinic follow-up
+NAW-10315,2025-03-01,FY25 Q1,Southeast,Dealer,Soundpost Music,Alex Rivera,Northstar Ukulele,Instrument,Mahogany,28,315.26,0.12,8827.28,5384.64,3442.64,High,Accessory attach opportunity
+NAW-10316,2025-03-01,FY25 Q1,Southeast,Education,Copper Canyon Guitars,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,14,1890.86,0.03,26472.04,14294.9,12177.14,High,Holiday prebuild
+NAW-10317,2025-03-01,FY25 Q1,Southeast,Distributor,Pacific Pick House,Casey Morgan,Coated Lifespan Strings,Accessory,String set,119,22.17,0.1,2638.23,1028.91,1609.32,High,Back-to-school promotion
+NAW-10318,2025-03-01,FY25 Q1,Southeast,E-commerce,Copper Canyon Guitars,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,37,3304.42,0.08,122263.54,59909.13,62354.41,High,Dealer replenishment
+NAW-10319,2025-03-01,FY25 Q1,Southeast,Distributor,Riverbend Instruments,Alex Rivera,Stage Cutaway,Guitar,Spruce/Ovangkol,10,1132.32,0.08,11323.2,6680.69,4642.51,Low,Holiday prebuild
+NAW-10320,2025-03-01,FY25 Q1,Southeast,Distributor,Main Street Frets,Dana Hart,Humidifier Kit,Accessory,Care,49,28.28,0.05,1385.72,595.86,789.86,Low,Back-to-school promotion
+NAW-10321,2025-03-01,FY25 Q1,Southeast,Dealer,Cedar Hall Music,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,11,340.34,0.05,3743.74,2283.68,1460.06,Low,Artist clinic follow-up
+NAW-10322,2025-03-01,FY25 Q1,Southeast,Dealer,Blue Ridge Music,Riley Stone,Trail Mini,Guitar,HPL/Sapele,34,461.01,0.1,15674.34,10031.58,5642.76,Low,Holiday prebuild
+NAW-10323,2025-03-01,FY25 Q1,Southeast,Artist Relations,Riverbend Instruments,Elliot Chen,Premium Strap,Accessory,Accessory,118,48.79,0.03,5757.22,2648.32,3108.9,Low,Holiday prebuild
+NAW-10324,2025-03-01,FY25 Q1,Southeast,Artist Relations,Lakeside Strings,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,36,486.62,0.05,17518.32,11211.72,6306.6,Medium,Artist clinic follow-up
+NAW-10325,2025-03-01,FY25 Q1,Southeast,Education,Desert Tone Co.,Samira Khan,Coated Lifespan Strings,Accessory,String set,55,21.68,0.12,1192.4,465.04,727.36,High,Back-to-school promotion
+NAW-10326,2025-03-01,FY25 Q1,Southeast,E-commerce,Desert Tone Co.,Morgan Evans,Coated Lifespan Strings,Accessory,String set,115,22.67,0.08,2607.05,1016.75,1590.3,Medium,Artist clinic follow-up
+NAW-10327,2025-03-01,FY25 Q1,Southeast,Distributor,Lakeside Strings,Elliot Chen,Humidifier Kit,Accessory,Care,24,28.88,0.03,693.12,298.04,395.08,Medium,Dealer replenishment
+NAW-10328,2025-03-01,FY25 Q1,Southeast,Distributor,Main Street Frets,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,23,347.5,0.03,7992.5,4875.43,3117.07,Medium,Dealer replenishment
+NAW-10329,2025-03-01,FY25 Q1,Southeast,Education,Soundpost Music,Taylor Brooks,Premium Strap,Accessory,Accessory,25,46.28,0.08,1157.0,532.22,624.78,Low,Holiday prebuild
+NAW-10330,2025-03-01,FY25 Q1,Southeast,Education,Bayfront Studio Gear,Taylor Brooks,Summit Grand Auditorium,Guitar,Spruce/Walnut,34,1641.39,0,55807.26,31252.07,24555.19,Medium,Dealer replenishment
+NAW-10331,2025-03-01,FY25 Q1,Southeast,Artist Relations,Cedar Hall Music,Morgan Evans,Stage Cutaway,Guitar,Spruce/Ovangkol,6,1230.79,0,7384.74,4357.0,3027.74,Low,Back-to-school promotion
+NAW-10332,2025-03-01,FY25 Q1,Southeast,Artist Relations,Soundpost Music,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,7,1559.32,0.05,10915.24,6112.53,4802.71,Low,Holiday prebuild
+NAW-10333,2025-03-01,FY25 Q1,Southeast,Education,Bayfront Studio Gear,Priya Shah,Phosphor Bronze Strings,Accessory,String set,111,15.11,0.08,1677.21,704.43,972.78,Medium,Back-to-school promotion
+NAW-10334,2025-03-01,FY25 Q1,Southeast,Distributor,Blue Ridge Music,Dana Hart,Northstar Ukulele,Instrument,Mahogany,25,329.59,0.08,8239.75,5026.25,3213.5,Low,Artist clinic follow-up
+NAW-10335,2025-03-01,FY25 Q1,Southeast,Dealer,Riverbend Instruments,Casey Morgan,Northstar Ukulele,Instrument,Mahogany,26,329.59,0.08,8569.34,5227.3,3342.04,High,Dealer replenishment
+NAW-10448,2025-04-01,FY25 Q2,Southeast,Education,Pacific Pick House,Priya Shah,Premium Strap,Accessory,Accessory,33,44.71,0.12,1475.43,678.7,796.73,Low,Holiday prebuild
+NAW-10449,2025-04-01,FY25 Q2,Southeast,E-commerce,Lakeside Strings,Taylor Brooks,Hardshell Case,Accessory,Case,105,208.89,0.08,21933.45,14256.74,7676.71,Low,Artist clinic follow-up
+NAW-10450,2025-04-01,FY25 Q2,Southeast,Education,Copper Canyon Guitars,Alex Rivera,Foundry Custom,Guitar,Adirondack/Maple,18,3627.76,0,65299.68,31996.84,33302.84,Medium,Holiday prebuild
+NAW-10451,2025-04-01,FY25 Q2,Southeast,Distributor,Cedar Hall Music,Elliot Chen,Hardshell Case,Accessory,Case,37,220.25,0.03,8149.25,5297.01,2852.24,High,Holiday prebuild
+NAW-10452,2025-04-01,FY25 Q2,Southeast,E-commerce,Main Street Frets,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,28,1909.82,0.03,53474.96,28876.48,24598.48,Medium,Holiday prebuild
+NAW-10453,2025-04-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Jordan Lee,Hardshell Case,Accessory,Case,65,227.06,0,14758.9,9593.28,5165.62,Low,Back-to-school promotion
+NAW-10454,2025-04-01,FY25 Q2,Southeast,Distributor,Riverbend Instruments,Casey Morgan,Trail Mini,Guitar,HPL/Sapele,22,475.97,0.08,10471.34,6701.66,3769.68,Low,Dealer replenishment
+NAW-10455,2025-04-01,FY25 Q2,Southeast,Distributor,Main Street Frets,Taylor Brooks,Coated Lifespan Strings,Accessory,String set,54,24.88,0,1343.52,523.97,819.55,High,Dealer replenishment
+NAW-10456,2025-04-01,FY25 Q2,Southeast,Education,Metro Music Supply,Taylor Brooks,Hardshell Case,Accessory,Case,34,227.06,0,7720.04,5018.03,2702.01,Low,Back-to-school promotion
+NAW-10457,2025-04-01,FY25 Q2,Southeast,E-commerce,Blue Ridge Music,Alex Rivera,Northstar Ukulele,Instrument,Mahogany,18,343.75,0.05,6187.5,3774.38,2413.12,Medium,Back-to-school promotion
+NAW-10458,2025-04-01,FY25 Q2,Southeast,Artist Relations,Bayfront Studio Gear,Riley Stone,Trail Mini,Guitar,HPL/Sapele,29,475.97,0.08,13803.13,8834.0,4969.13,Low,Accessory attach opportunity
+NAW-10459,2025-04-01,FY25 Q2,Southeast,Dealer,Desert Tone Co.,Dana Hart,Trail Mini,Guitar,HPL/Sapele,2,517.36,0,1034.72,662.22,372.5,Low,Back-to-school promotion
+NAW-10460,2025-04-01,FY25 Q2,Southeast,Distributor,Copper Canyon Guitars,Samira Khan,Hardshell Case,Accessory,Case,134,220.25,0.03,29513.5,19183.78,10329.72,High,Accessory attach opportunity
+NAW-10461,2025-04-01,FY25 Q2,Southeast,Dealer,Prairie Note,Morgan Evans,Premium Strap,Accessory,Accessory,21,48.26,0.05,1013.46,466.19,547.27,Low,Accessory attach opportunity
+NAW-10462,2025-04-01,FY25 Q2,Southeast,E-commerce,Cedar Hall Music,Samira Khan,Coated Lifespan Strings,Accessory,String set,39,22.89,0.08,892.71,348.16,544.55,High,Dealer replenishment
+NAW-10463,2025-04-01,FY25 Q2,Southeast,Education,Pacific Pick House,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,33,3264.99,0.1,107744.67,52794.89,54949.78,Medium,Holiday prebuild
+NAW-10464,2025-04-01,FY25 Q2,Southeast,E-commerce,Riverbend Instruments,Morgan Evans,Northstar Ukulele,Instrument,Mahogany,38,318.42,0.12,12099.96,7380.98,4718.98,Medium,Accessory attach opportunity
+NAW-10465,2025-04-01,FY25 Q2,Southeast,Dealer,Metro Music Supply,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,23,1346.8,0,30976.4,17966.31,13010.09,Medium,Holiday prebuild
+NAW-10466,2025-04-01,FY25 Q2,Southeast,Education,Cedar Hall Music,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,11,1574.95,0.05,17324.45,9701.69,7622.76,Medium,Holiday prebuild
+NAW-10467,2025-04-01,FY25 Q2,Southeast,Education,Riverbend Instruments,Dana Hart,Northstar Ukulele,Instrument,Mahogany,25,325.66,0.1,8141.5,4966.31,3175.19,Medium,Dealer replenishment
+NAW-10468,2025-04-01,FY25 Q2,Southeast,Artist Relations,Desert Tone Co.,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,17,3446.38,0.05,58588.46,28708.35,29880.11,Low,Artist clinic follow-up
+NAW-10469,2025-04-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,14,3518.93,0.03,49265.02,24139.86,25125.16,Low,Artist clinic follow-up
+NAW-10470,2025-04-01,FY25 Q2,Southeast,E-commerce,Cedar Hall Music,Alex Rivera,Hardshell Case,Accessory,Case,140,215.71,0.05,30199.4,19629.61,10569.79,Low,Artist clinic follow-up
+NAW-10471,2025-04-01,FY25 Q2,Southeast,Education,Desert Tone Co.,Taylor Brooks,Coated Lifespan Strings,Accessory,String set,97,22.89,0.08,2220.33,865.93,1354.4,Medium,Back-to-school promotion
+NAW-10472,2025-04-01,FY25 Q2,Southeast,Artist Relations,Main Street Frets,Riley Stone,Premium Strap,Accessory,Accessory,107,50.8,0,5435.6,2500.38,2935.22,Low,Holiday prebuild
+NAW-10473,2025-04-01,FY25 Q2,Southeast,Dealer,Metro Music Supply,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,3,1657.84,0,4973.52,2785.17,2188.35,Low,Holiday prebuild
+NAW-10474,2025-04-01,FY25 Q2,Southeast,Education,Cedar Hall Music,Riley Stone,Northstar Ukulele,Instrument,Mahogany,37,332.9,0.08,12317.3,7513.55,4803.75,Medium,Back-to-school promotion
+NAW-10475,2025-04-01,FY25 Q2,Southeast,Distributor,Main Street Frets,Casey Morgan,Harbor OM,Guitar,Spruce/Rosewood,14,1968.88,0,27564.32,14884.73,12679.59,Low,Holiday prebuild
+NAW-10588,2025-05-01,FY25 Q2,Southeast,Artist Relations,Copper Canyon Guitars,Jordan Lee,Humidifier Kit,Accessory,Care,65,28.28,0.05,1838.2,790.43,1047.77,Medium,Back-to-school promotion
+NAW-10589,2025-05-01,FY25 Q2,Southeast,E-commerce,Pacific Pick House,Alex Rivera,Phosphor Bronze Strings,Accessory,String set,111,16.42,0,1822.62,765.5,1057.12,Low,Dealer replenishment
+NAW-10590,2025-05-01,FY25 Q2,Southeast,Distributor,Copper Canyon Guitars,Casey Morgan,Harbor OM,Guitar,Spruce/Rosewood,6,1793.4,0.08,10760.4,5810.62,4949.78,High,Dealer replenishment
+NAW-10591,2025-05-01,FY25 Q2,Southeast,Dealer,Desert Tone Co.,Elliot Chen,Humidifier Kit,Accessory,Care,28,26.79,0.1,750.12,322.55,427.57,Medium,Dealer replenishment
+NAW-10592,2025-05-01,FY25 Q2,Southeast,Education,Bayfront Studio Gear,Riley Stone,Trail Mini,Guitar,HPL/Sapele,38,486.62,0.05,18491.56,11834.6,6656.96,Medium,Back-to-school promotion
+NAW-10593,2025-05-01,FY25 Q2,Southeast,Education,Blue Ridge Music,Alex Rivera,Harbor OM,Guitar,Spruce/Rosewood,35,1715.42,0.12,60039.7,32421.44,27618.26,Medium,Holiday prebuild
+NAW-10594,2025-05-01,FY25 Q2,Southeast,Artist Relations,Prairie Note,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,13,1559.32,0.05,20271.16,11351.85,8919.31,Low,Back-to-school promotion
+NAW-10595,2025-05-01,FY25 Q2,Southeast,Education,Main Street Frets,Samira Khan,Coated Lifespan Strings,Accessory,String set,65,22.67,0.08,1473.55,574.68,898.87,Low,Back-to-school promotion
+NAW-10596,2025-05-01,FY25 Q2,Southeast,Distributor,Bayfront Studio Gear,Elliot Chen,Phosphor Bronze Strings,Accessory,String set,103,14.78,0.1,1522.34,639.38,882.96,Medium,Artist clinic follow-up
+NAW-10597,2025-05-01,FY25 Q2,Southeast,Dealer,Lakeside Strings,Priya Shah,Hardshell Case,Accessory,Case,52,206.82,0.08,10754.64,6990.52,3764.12,High,Accessory attach opportunity
+NAW-10598,2025-05-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Taylor Brooks,Premium Strap,Accessory,Accessory,140,47.78,0.05,6689.2,3077.03,3612.17,Low,Artist clinic follow-up
+NAW-10599,2025-05-01,FY25 Q2,Southeast,E-commerce,Copper Canyon Guitars,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,20,3591.76,0,71835.2,35199.25,36635.95,High,Accessory attach opportunity
+NAW-10600,2025-05-01,FY25 Q2,Southeast,Education,Lakeside Strings,Alex Rivera,Humidifier Kit,Accessory,Care,43,26.79,0.1,1151.97,495.35,656.62,Medium,Holiday prebuild
+NAW-10601,2025-05-01,FY25 Q2,Southeast,Education,Bayfront Studio Gear,Jordan Lee,Premium Strap,Accessory,Accessory,61,45.27,0.1,2761.47,1270.28,1491.19,High,Back-to-school promotion
+NAW-10602,2025-05-01,FY25 Q2,Southeast,Education,Bayfront Studio Gear,Samira Khan,Summit Grand Auditorium,Guitar,Spruce/Walnut,13,1641.39,0,21338.07,11949.32,9388.75,Low,Accessory attach opportunity
+NAW-10603,2025-05-01,FY25 Q2,Southeast,E-commerce,Bayfront Studio Gear,Elliot Chen,Hardshell Case,Accessory,Case,139,202.33,0.1,28123.87,18280.52,9843.35,Low,Holiday prebuild
+NAW-10604,2025-05-01,FY25 Q2,Southeast,E-commerce,Lakeside Strings,Dana Hart,Summit Grand Auditorium,Guitar,Spruce/Walnut,16,1477.25,0.1,23636.0,13236.16,10399.84,Low,Dealer replenishment
+NAW-10605,2025-05-01,FY25 Q2,Southeast,Distributor,Lakeside Strings,Alex Rivera,Coated Lifespan Strings,Accessory,String set,135,21.68,0.12,2926.8,1141.45,1785.35,High,Accessory attach opportunity
+NAW-10606,2025-05-01,FY25 Q2,Southeast,Artist Relations,Bayfront Studio Gear,Elliot Chen,Summit Grand Auditorium,Guitar,Spruce/Walnut,28,1559.32,0.05,43660.96,24450.14,19210.82,High,Holiday prebuild
+NAW-10607,2025-05-01,FY25 Q2,Southeast,Dealer,Pacific Pick House,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1200.09,0.1,40803.06,23665.77,17137.29,Low,Dealer replenishment
+NAW-10608,2025-05-01,FY25 Q2,Southeast,Distributor,Metro Music Supply,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,20,329.59,0.08,6591.8,4021.0,2570.8,Low,Accessory attach opportunity
+NAW-10609,2025-05-01,FY25 Q2,Southeast,E-commerce,Soundpost Music,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,29,1949.34,0,56530.86,30526.66,26004.2,Medium,Accessory attach opportunity
+NAW-10610,2025-05-01,FY25 Q2,Southeast,Education,Bayfront Studio Gear,Jordan Lee,Hardshell Case,Accessory,Case,107,224.81,0,24054.67,15635.54,8419.13,High,Back-to-school promotion
+NAW-10611,2025-05-01,FY25 Q2,Southeast,Education,Desert Tone Co.,Samira Khan,Humidifier Kit,Accessory,Care,49,28.88,0.03,1415.12,608.5,806.62,Low,Dealer replenishment
+NAW-10612,2025-05-01,FY25 Q2,Southeast,Artist Relations,Lakeside Strings,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,17,3412.17,0.05,58006.89,28423.38,29583.51,Medium,Dealer replenishment
+NAW-10613,2025-05-01,FY25 Q2,Southeast,E-commerce,Lakeside Strings,Taylor Brooks,Northstar Ukulele,Instrument,Mahogany,16,340.34,0.05,5445.44,3321.72,2123.72,Low,Dealer replenishment
+NAW-10614,2025-05-01,FY25 Q2,Southeast,Artist Relations,Lakeside Strings,Samira Khan,Trail Mini,Guitar,HPL/Sapele,25,450.76,0.12,11269.0,7212.16,4056.84,Medium,Holiday prebuild
+NAW-10615,2025-05-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,25,358.25,0,8956.25,5463.31,3492.94,High,Holiday prebuild
+NAW-10728,2025-05-01,FY25 Q2,Southeast,Education,Prairie Note,Samira Khan,Coated Lifespan Strings,Accessory,String set,54,23.96,0,1293.84,504.6,789.24,High,Artist clinic follow-up
+NAW-10729,2025-05-01,FY25 Q2,Southeast,Artist Relations,Soundpost Music,Casey Morgan,Humidifier Kit,Accessory,Care,51,26.64,0.08,1358.64,584.22,774.42,Medium,Back-to-school promotion
+NAW-10730,2025-05-01,FY25 Q2,Southeast,Distributor,Copper Canyon Guitars,Alex Rivera,Foundry Custom,Guitar,Adirondack/Maple,29,3493.4,0,101308.6,49641.21,51667.39,Low,Artist clinic follow-up
+NAW-10731,2025-05-01,FY25 Q2,Southeast,Education,Prairie Note,Jordan Lee,Summit Grand Auditorium,Guitar,Spruce/Walnut,32,1548.55,0.03,49553.6,27750.02,21803.58,High,Accessory attach opportunity
+NAW-10732,2025-05-01,FY25 Q2,Southeast,Distributor,Desert Tone Co.,Casey Morgan,Coated Lifespan Strings,Accessory,String set,129,22.04,0.08,2843.16,1108.83,1734.33,Medium,Accessory attach opportunity
+NAW-10733,2025-05-01,FY25 Q2,Southeast,E-commerce,Bayfront Studio Gear,Alex Rivera,Foundry Custom,Guitar,Adirondack/Maple,2,3318.73,0.05,6637.46,3252.36,3385.1,Low,Dealer replenishment
+NAW-10734,2025-05-01,FY25 Q2,Southeast,Distributor,Lakeside Strings,Casey Morgan,Aurora Dreadnought,Guitar,Spruce/Mahogany,30,1193.17,0.08,35795.1,20761.16,15033.94,Low,Holiday prebuild
+NAW-10735,2025-05-01,FY25 Q2,Southeast,E-commerce,Soundpost Music,Taylor Brooks,Harbor OM,Guitar,Spruce/Rosewood,2,1744.28,0.08,3488.56,1883.82,1604.74,High,Accessory attach opportunity
+NAW-10736,2025-05-01,FY25 Q2,Southeast,Education,Copper Canyon Guitars,Dana Hart,Trail Mini,Guitar,HPL/Sapele,5,448.38,0.1,2241.9,1434.82,807.08,Low,Accessory attach opportunity
+NAW-10737,2025-05-01,FY25 Q2,Southeast,Distributor,Copper Canyon Guitars,Elliot Chen,Northstar Ukulele,Instrument,Mahogany,11,348.44,0,3832.84,2338.03,1494.81,Low,Dealer replenishment
+NAW-10738,2025-05-01,FY25 Q2,Southeast,Education,Lakeside Strings,Jordan Lee,Premium Strap,Accessory,Accessory,52,46.48,0.05,2416.96,1111.8,1305.16,Medium,Accessory attach opportunity
+NAW-10739,2025-05-01,FY25 Q2,Southeast,Dealer,Riverbend Instruments,Taylor Brooks,Trail Mini,Guitar,HPL/Sapele,24,458.35,0.08,11000.4,7040.26,3960.14,Medium,Dealer replenishment
+NAW-10740,2025-05-01,FY25 Q2,Southeast,Distributor,Main Street Frets,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,14,1895.96,0,26543.44,14333.46,12209.98,Low,Artist clinic follow-up
+NAW-10741,2025-05-01,FY25 Q2,Southeast,Distributor,Soundpost Music,Casey Morgan,Trail Mini,Guitar,HPL/Sapele,15,473.29,0.05,7099.35,4543.58,2555.77,Medium,Holiday prebuild
+NAW-10742,2025-05-01,FY25 Q2,Southeast,Education,Pacific Pick House,Morgan Evans,Humidifier Kit,Accessory,Care,93,28.08,0.03,2611.44,1122.92,1488.52,Low,Holiday prebuild
+NAW-10743,2025-05-01,FY25 Q2,Southeast,E-commerce,Cedar Hall Music,Priya Shah,Coated Lifespan Strings,Accessory,String set,56,21.09,0.12,1181.04,460.61,720.43,Low,Artist clinic follow-up
+NAW-10744,2025-05-01,FY25 Q2,Southeast,Dealer,Riverbend Instruments,Morgan Evans,Stage Cutaway,Guitar,Spruce/Ovangkol,9,1101.32,0.08,9911.88,5848.01,4063.87,Medium,Accessory attach opportunity
+NAW-10745,2025-05-01,FY25 Q2,Southeast,Artist Relations,Desert Tone Co.,Morgan Evans,Humidifier Kit,Accessory,Care,114,28.08,0.03,3201.12,1376.48,1824.64,Low,Dealer replenishment
+NAW-10746,2025-05-01,FY25 Q2,Southeast,Distributor,Prairie Note,Alex Rivera,Coated Lifespan Strings,Accessory,String set,142,23.96,0,3402.32,1326.9,2075.42,Low,Holiday prebuild
+NAW-10747,2025-05-01,FY25 Q2,Southeast,Artist Relations,Main Street Frets,Dana Hart,Phosphor Bronze Strings,Accessory,String set,114,15.18,0.05,1730.52,726.82,1003.7,Low,Dealer replenishment
+NAW-10748,2025-05-01,FY25 Q2,Southeast,Artist Relations,Soundpost Music,Jordan Lee,Harbor OM,Guitar,Spruce/Rosewood,22,1668.45,0.12,36705.9,19821.19,16884.71,High,Holiday prebuild
+NAW-10749,2025-05-01,FY25 Q2,Southeast,E-commerce,Prairie Note,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,7,1801.16,0.05,12608.12,6808.38,5799.74,High,Holiday prebuild
+NAW-10750,2025-05-01,FY25 Q2,Southeast,Education,Main Street Frets,Morgan Evans,Trail Mini,Guitar,HPL/Sapele,22,438.42,0.12,9645.24,6172.95,3472.29,Low,Holiday prebuild
+NAW-10751,2025-05-01,FY25 Q2,Southeast,Artist Relations,Cedar Hall Music,Morgan Evans,Northstar Ukulele,Instrument,Mahogany,14,337.99,0.03,4731.86,2886.43,1845.43,Medium,Dealer replenishment
+NAW-10752,2025-05-01,FY25 Q2,Southeast,Dealer,Blue Ridge Music,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,143,14.06,0.12,2010.58,844.44,1166.14,Low,Accessory attach opportunity
+NAW-10753,2025-05-01,FY25 Q2,Southeast,Artist Relations,Blue Ridge Music,Riley Stone,Stage Cutaway,Guitar,Spruce/Ovangkol,16,1197.08,0,19153.28,11300.44,7852.84,High,Back-to-school promotion
+NAW-10754,2025-05-01,FY25 Q2,Southeast,Education,Cedar Hall Music,Morgan Evans,Trail Mini,Guitar,HPL/Sapele,6,483.26,0.03,2899.56,1855.72,1043.84,Low,Accessory attach opportunity
+NAW-10755,2025-05-01,FY25 Q2,Southeast,Education,Desert Tone Co.,Riley Stone,Phosphor Bronze Strings,Accessory,String set,87,15.5,0.03,1348.5,566.37,782.13,Low,Holiday prebuild
+NAW-10868,2025-06-01,FY25 Q2,Southeast,Distributor,Bayfront Studio Gear,Jordan Lee,Stage Cutaway,Guitar,Spruce/Ovangkol,30,1058.96,0.08,31768.8,18743.59,13025.21,Medium,Accessory attach opportunity
+NAW-10869,2025-06-01,FY25 Q2,Southeast,Artist Relations,Main Street Frets,Riley Stone,Summit Grand Auditorium,Guitar,Spruce/Walnut,27,1412.24,0.08,38130.48,21353.07,16777.41,Low,Dealer replenishment
+NAW-10870,2025-06-01,FY25 Q2,Southeast,Dealer,Pacific Pick House,Alex Rivera,Humidifier Kit,Accessory,Care,99,25.06,0.1,2480.94,1066.8,1414.14,Low,Dealer replenishment
+NAW-10871,2025-06-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Alex Rivera,Harbor OM,Guitar,Spruce/Rosewood,7,1640.74,0.1,11485.18,6202.0,5283.18,High,Artist clinic follow-up
+NAW-10872,2025-06-01,FY25 Q2,Southeast,Education,Cedar Hall Music,Elliot Chen,Premium Strap,Accessory,Accessory,45,42.34,0.1,1905.3,876.44,1028.86,Medium,Accessory attach opportunity
+NAW-10873,2025-06-01,FY25 Q2,Southeast,Education,Riverbend Instruments,Morgan Evans,Harbor OM,Guitar,Spruce/Rosewood,18,1731.89,0.05,31174.02,16833.97,14340.05,Low,Dealer replenishment
+NAW-10874,2025-06-01,FY25 Q2,Southeast,Dealer,Soundpost Music,Dana Hart,Phosphor Bronze Strings,Accessory,String set,91,14.59,0.05,1327.69,557.63,770.06,Low,Accessory attach opportunity
+NAW-10875,2025-06-01,FY25 Q2,Southeast,Dealer,Copper Canyon Guitars,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,11,1035.94,0.1,11395.34,6723.25,4672.09,High,Back-to-school promotion
+NAW-10876,2025-06-01,FY25 Q2,Southeast,Distributor,Prairie Note,Taylor Brooks,Trail Mini,Guitar,HPL/Sapele,34,421.56,0.12,14333.04,9173.15,5159.89,Medium,Holiday prebuild
+NAW-10877,2025-06-01,FY25 Q2,Southeast,Education,Lakeside Strings,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,26,3090.32,0.08,80348.32,39370.68,40977.64,Medium,Artist clinic follow-up
+NAW-10878,2025-06-01,FY25 Q2,Southeast,Distributor,Blue Ridge Music,Elliot Chen,Harbor OM,Guitar,Spruce/Rosewood,2,1640.74,0.1,3281.48,1772.0,1509.48,Low,Back-to-school promotion
+NAW-10879,2025-06-01,FY25 Q2,Southeast,Artist Relations,Bayfront Studio Gear,Riley Stone,Coated Lifespan Strings,Accessory,String set,136,23.04,0,3133.44,1222.04,1911.4,Medium,Dealer replenishment
+NAW-10880,2025-06-01,FY25 Q2,Southeast,Dealer,Metro Music Supply,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,65,14.59,0.05,948.35,398.31,550.04,Medium,Dealer replenishment
+NAW-10881,2025-06-01,FY25 Q2,Southeast,E-commerce,Prairie Note,Riley Stone,Phosphor Bronze Strings,Accessory,String set,80,14.59,0.05,1167.2,490.22,676.98,Medium,Back-to-school promotion
+NAW-10882,2025-06-01,FY25 Q2,Southeast,Education,Main Street Frets,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,3,3023.14,0.1,9069.42,4444.02,4625.4,Medium,Accessory attach opportunity
+NAW-10883,2025-06-01,FY25 Q2,Southeast,Dealer,Soundpost Music,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,7,1147.28,0.08,8030.96,4657.96,3373.0,Low,Back-to-school promotion
+NAW-10884,2025-06-01,FY25 Q2,Southeast,E-commerce,Main Street Frets,Riley Stone,Summit Grand Auditorium,Guitar,Spruce/Walnut,6,1535.04,0,9210.24,5157.73,4052.51,Low,Accessory attach opportunity
+NAW-10885,2025-06-01,FY25 Q2,Southeast,Distributor,Lakeside Strings,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,27,1147.28,0.08,30976.56,17966.4,13010.16,Low,Back-to-school promotion
+NAW-10886,2025-06-01,FY25 Q2,Southeast,Artist Relations,Desert Tone Co.,Riley Stone,Phosphor Bronze Strings,Accessory,String set,138,15.36,0,2119.68,890.27,1229.41,Low,Dealer replenishment
+NAW-10887,2025-06-01,FY25 Q2,Southeast,Artist Relations,Metro Music Supply,Casey Morgan,Premium Strap,Accessory,Accessory,36,43.28,0.08,1558.08,716.72,841.36,High,Accessory attach opportunity
+NAW-10888,2025-06-01,FY25 Q2,Southeast,Dealer,Copper Canyon Guitars,Elliot Chen,Northstar Ukulele,Instrument,Mahogany,26,318.29,0.05,8275.54,5048.08,3227.46,Low,Holiday prebuild
+NAW-10889,2025-06-01,FY25 Q2,Southeast,Artist Relations,Soundpost Music,Jordan Lee,Phosphor Bronze Strings,Accessory,String set,116,14.9,0.03,1728.4,725.93,1002.47,Low,Holiday prebuild
+NAW-10890,2025-06-01,FY25 Q2,Southeast,Dealer,Desert Tone Co.,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,10,455.09,0.05,4550.9,2912.58,1638.32,Medium,Back-to-school promotion
+NAW-10891,2025-06-01,FY25 Q2,Southeast,Education,Main Street Frets,Casey Morgan,Humidifier Kit,Accessory,Care,28,26.45,0.05,740.6,318.46,422.14,Low,Dealer replenishment
+NAW-10892,2025-06-01,FY25 Q2,Southeast,Dealer,Prairie Note,Morgan Evans,Humidifier Kit,Accessory,Care,18,27.0,0.03,486.0,208.98,277.02,High,Artist clinic follow-up
+NAW-10893,2025-06-01,FY25 Q2,Southeast,E-commerce,Prairie Note,Riley Stone,Phosphor Bronze Strings,Accessory,String set,94,13.52,0.12,1270.88,533.77,737.11,Low,Dealer replenishment
+NAW-10894,2025-06-01,FY25 Q2,Southeast,E-commerce,Bayfront Studio Gear,Taylor Brooks,Northstar Ukulele,Instrument,Mahogany,38,308.24,0.08,11713.12,7145.0,4568.12,Medium,Holiday prebuild
+NAW-10895,2025-06-01,FY25 Q2,Southeast,Dealer,Soundpost Music,Alex Rivera,Hardshell Case,Accessory,Case,105,189.22,0.1,19868.1,12914.26,6953.84,Low,Back-to-school promotion
+NAW-11008,2025-07-01,FY25 Q3,Southeast,Artist Relations,Riverbend Instruments,Elliot Chen,Hardshell Case,Accessory,Case,141,195.78,0.03,27604.98,17943.24,9661.74,Medium,Artist clinic follow-up
+NAW-11009,2025-07-01,FY25 Q3,Southeast,E-commerce,Pacific Pick House,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,26,3224.68,0,83841.68,41082.42,42759.26,Low,Dealer replenishment
+NAW-11010,2025-07-01,FY25 Q3,Southeast,E-commerce,Metro Music Supply,Elliot Chen,Foundry Custom,Guitar,Adirondack/Maple,18,3063.44,0.05,55141.92,27019.54,28122.38,Medium,Holiday prebuild
+NAW-11011,2025-07-01,FY25 Q3,Southeast,E-commerce,Bayfront Studio Gear,Priya Shah,Foundry Custom,Guitar,Adirondack/Maple,21,2966.7,0.08,62300.7,30527.34,31773.36,Medium,Back-to-school promotion
+NAW-11012,2025-07-01,FY25 Q3,Southeast,Dealer,Riverbend Instruments,Samira Khan,Northstar Ukulele,Instrument,Mahogany,10,321.64,0,3216.4,1962.0,1254.4,Medium,Back-to-school promotion
+NAW-11013,2025-07-01,FY25 Q3,Southeast,Education,Pacific Pick House,Samira Khan,Harbor OM,Guitar,Spruce/Rosewood,21,1750.12,0,36752.52,19846.36,16906.16,Medium,Dealer replenishment
+NAW-11014,2025-07-01,FY25 Q3,Southeast,Distributor,Bayfront Studio Gear,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,36,2966.7,0.08,106801.2,52332.59,54468.61,High,Dealer replenishment
+NAW-11015,2025-07-01,FY25 Q3,Southeast,Dealer,Metro Music Supply,Elliot Chen,Coated Lifespan Strings,Accessory,String set,104,22.12,0,2300.48,897.19,1403.29,High,Artist clinic follow-up
+NAW-11016,2025-07-01,FY25 Q3,Southeast,Artist Relations,Pacific Pick House,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,35,1399.96,0.05,48998.6,27439.22,21559.38,Medium,Back-to-school promotion
+NAW-11017,2025-07-01,FY25 Q3,Southeast,Education,Prairie Note,Taylor Brooks,Hardshell Case,Accessory,Case,159,181.65,0.1,28882.35,18773.53,10108.82,Low,Artist clinic follow-up
+NAW-11018,2025-07-01,FY25 Q3,Southeast,Education,Desert Tone Co.,Casey Morgan,Aurora Dreadnought,Guitar,Spruce/Mahogany,7,1053.5,0.12,7374.5,4277.21,3097.29,Medium,Artist clinic follow-up
+NAW-11019,2025-07-01,FY25 Q3,Southeast,Distributor,Cedar Hall Music,Samira Khan,Aurora Dreadnought,Guitar,Spruce/Mahogany,11,1053.5,0.12,11588.5,6721.33,4867.17,Medium,Dealer replenishment
+NAW-11020,2025-07-01,FY25 Q3,Southeast,Artist Relations,Prairie Note,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,3,1053.5,0.12,3160.5,1833.09,1327.41,Low,Holiday prebuild
+NAW-11021,2025-07-01,FY25 Q3,Southeast,Dealer,Prairie Note,Riley Stone,Northstar Ukulele,Instrument,Mahogany,8,289.47,0.1,2315.76,1412.61,903.15,Medium,Back-to-school promotion
+NAW-11022,2025-07-01,FY25 Q3,Southeast,Artist Relations,Lakeside Strings,Casey Morgan,Humidifier Kit,Accessory,Care,42,25.92,0.03,1088.64,468.12,620.52,Medium,Dealer replenishment
+NAW-11023,2025-07-01,FY25 Q3,Southeast,Artist Relations,Metro Music Supply,Riley Stone,Aurora Dreadnought,Guitar,Spruce/Mahogany,12,1077.44,0.1,12929.28,7498.98,5430.3,Medium,Dealer replenishment
+NAW-11024,2025-07-01,FY25 Q3,Southeast,E-commerce,Cedar Hall Music,Taylor Brooks,Aurora Dreadnought,Guitar,Spruce/Mahogany,24,1077.44,0.1,25858.56,14997.96,10860.6,Low,Holiday prebuild
+NAW-11025,2025-07-01,FY25 Q3,Southeast,Dealer,Prairie Note,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,15,3224.68,0,48370.2,23701.4,24668.8,High,Holiday prebuild
+NAW-11026,2025-07-01,FY25 Q3,Southeast,Distributor,Soundpost Music,Riley Stone,Phosphor Bronze Strings,Accessory,String set,108,13.57,0.08,1465.56,615.54,850.02,Low,Dealer replenishment
+NAW-11027,2025-07-01,FY25 Q3,Southeast,E-commerce,Bayfront Studio Gear,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,28,1575.11,0.1,44103.08,23815.66,20287.42,Medium,Holiday prebuild
+NAW-11028,2025-07-01,FY25 Q3,Southeast,Dealer,Blue Ridge Music,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,153,12.98,0.12,1985.94,834.09,1151.85,High,Holiday prebuild
+NAW-11029,2025-07-01,FY25 Q3,Southeast,Dealer,Blue Ridge Music,Dana Hart,Northstar Ukulele,Instrument,Mahogany,27,311.99,0.03,8423.73,5138.48,3285.25,Medium,Artist clinic follow-up
+NAW-11030,2025-07-01,FY25 Q3,Southeast,E-commerce,Pacific Pick House,Morgan Evans,Stage Cutaway,Guitar,Spruce/Ovangkol,8,1105.0,0,8840.0,5215.6,3624.4,High,Holiday prebuild
+NAW-11031,2025-07-01,FY25 Q3,Southeast,Education,Desert Tone Co.,Dana Hart,Aurora Dreadnought,Guitar,Spruce/Mahogany,4,1101.39,0.08,4405.56,2555.22,1850.34,Medium,Back-to-school promotion
+NAW-11032,2025-07-01,FY25 Q3,Southeast,Dealer,Prairie Note,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,6,1326.27,0.1,7957.62,4456.27,3501.35,Medium,Holiday prebuild
+NAW-11033,2025-07-01,FY25 Q3,Southeast,Distributor,Main Street Frets,Samira Khan,Humidifier Kit,Accessory,Care,79,25.92,0.03,2047.68,880.5,1167.18,Low,Accessory attach opportunity
+NAW-11034,2025-07-01,FY25 Q3,Southeast,Distributor,Desert Tone Co.,Casey Morgan,Trail Mini,Guitar,HPL/Sapele,29,423.09,0.08,12269.61,7852.55,4417.06,Medium,Accessory attach opportunity
+NAW-11035,2025-07-01,FY25 Q3,Southeast,E-commerce,Lakeside Strings,Casey Morgan,Hardshell Case,Accessory,Case,128,201.83,0,25834.24,16792.26,9041.98,Low,Artist clinic follow-up
+NAW-11148,2025-08-01,FY25 Q3,Southeast,Dealer,Cedar Hall Music,Dana Hart,Hardshell Case,Accessory,Case,30,176.11,0.1,5283.3,3434.15,1849.15,High,Accessory attach opportunity
+NAW-11149,2025-08-01,FY25 Q3,Southeast,Distributor,Copper Canyon Guitars,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,12,1017.73,0.05,12212.76,7205.53,5007.23,High,Artist clinic follow-up
+NAW-11150,2025-08-01,FY25 Q3,Southeast,Education,Copper Canyon Guitars,Dana Hart,Hardshell Case,Accessory,Case,95,172.19,0.12,16358.05,10632.73,5725.32,Low,Accessory attach opportunity
+NAW-11151,2025-08-01,FY25 Q3,Southeast,Distributor,Bayfront Studio Gear,Jordan Lee,Humidifier Kit,Accessory,Care,120,25.13,0.03,3015.6,1296.71,1718.89,Medium,Artist clinic follow-up
+NAW-11152,2025-08-01,FY25 Q3,Southeast,Artist Relations,Metro Music Supply,Dana Hart,Humidifier Kit,Accessory,Care,78,23.32,0.1,1818.96,782.15,1036.81,Low,Dealer replenishment
+NAW-11153,2025-08-01,FY25 Q3,Southeast,Distributor,Desert Tone Co.,Alex Rivera,Northstar Ukulele,Instrument,Mahogany,17,302.47,0.03,5141.99,3136.61,2005.38,Low,Artist clinic follow-up
+NAW-11154,2025-08-01,FY25 Q3,Southeast,Distributor,Cedar Hall Music,Alex Rivera,Northstar Ukulele,Instrument,Mahogany,25,311.83,0,7795.75,4755.41,3040.34,Medium,Dealer replenishment
+NAW-11155,2025-08-01,FY25 Q3,Southeast,Distributor,Pacific Pick House,Samira Khan,Hardshell Case,Accessory,Case,20,185.89,0.05,3717.8,2416.57,1301.23,Medium,Holiday prebuild
+NAW-11156,2025-08-01,FY25 Q3,Southeast,Distributor,Desert Tone Co.,Samira Khan,Coated Lifespan Strings,Accessory,String set,135,21.44,0,2894.4,1128.82,1765.58,Medium,Accessory attach opportunity
+NAW-11157,2025-08-01,FY25 Q3,Southeast,Distributor,Riverbend Instruments,Riley Stone,Harbor OM,Guitar,Spruce/Rosewood,37,1493.13,0.12,55245.81,29832.74,25413.07,Medium,Holiday prebuild
+NAW-11158,2025-08-01,FY25 Q3,Southeast,E-commerce,Soundpost Music,Alex Rivera,Northstar Ukulele,Instrument,Mahogany,28,274.41,0.12,7683.48,4686.92,2996.56,Low,Artist clinic follow-up
+NAW-11159,2025-08-01,FY25 Q3,Southeast,E-commerce,Lakeside Strings,Dana Hart,Trail Mini,Guitar,HPL/Sapele,4,423.56,0.05,1694.24,1084.31,609.93,Low,Accessory attach opportunity
+NAW-11160,2025-08-01,FY25 Q3,Southeast,Dealer,Soundpost Music,Priya Shah,Phosphor Bronze Strings,Accessory,String set,150,12.58,0.12,1887.0,792.54,1094.46,High,Dealer replenishment
+NAW-11161,2025-08-01,FY25 Q3,Southeast,E-commerce,Desert Tone Co.,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,18,3032.53,0.03,54585.54,26746.91,27838.63,Medium,Back-to-school promotion
+NAW-11162,2025-08-01,FY25 Q3,Southeast,E-commerce,Riverbend Instruments,Casey Morgan,Coated Lifespan Strings,Accessory,String set,68,21.44,0,1457.92,568.59,889.33,Medium,Accessory attach opportunity
+NAW-11163,2025-08-01,FY25 Q3,Southeast,Distributor,Lakeside Strings,Elliot Chen,Harbor OM,Guitar,Spruce/Rosewood,33,1696.74,0,55992.42,30235.91,25756.51,Medium,Back-to-school promotion
+NAW-11164,2025-08-01,FY25 Q3,Southeast,Education,Riverbend Instruments,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,28,1102.61,0.05,30873.08,17906.39,12966.69,Medium,Accessory attach opportunity
+NAW-11165,2025-08-01,FY25 Q3,Southeast,Dealer,Cedar Hall Music,Morgan Evans,Stage Cutaway,Guitar,Spruce/Ovangkol,31,985.59,0.08,30553.29,18026.44,12526.85,High,Holiday prebuild
+NAW-11166,2025-08-01,FY25 Q3,Southeast,Education,Copper Canyon Guitars,Taylor Brooks,Harbor OM,Guitar,Spruce/Rosewood,11,1527.06,0.1,16797.66,9070.74,7726.92,Medium,Artist clinic follow-up
+NAW-11167,2025-08-01,FY25 Q3,Southeast,Dealer,Main Street Frets,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,24,445.85,0,10700.4,6848.26,3852.14,Low,Accessory attach opportunity
+NAW-11168,2025-08-01,FY25 Q3,Southeast,Dealer,Main Street Frets,Alex Rivera,Coated Lifespan Strings,Accessory,String set,100,19.73,0.08,1973.0,769.47,1203.53,Medium,Holiday prebuild
+NAW-11169,2025-08-01,FY25 Q3,Southeast,Artist Relations,Copper Canyon Guitars,Alex Rivera,Phosphor Bronze Strings,Accessory,String set,32,13.87,0.03,443.84,186.41,257.43,Medium,Holiday prebuild
+NAW-11170,2025-08-01,FY25 Q3,Southeast,Artist Relations,Metro Music Supply,Alex Rivera,Hardshell Case,Accessory,Case,72,172.19,0.12,12397.68,8058.49,4339.19,High,Holiday prebuild
+NAW-11171,2025-08-01,FY25 Q3,Southeast,Distributor,Main Street Frets,Elliot Chen,Hardshell Case,Accessory,Case,48,185.89,0.05,8922.72,5799.77,3122.95,Medium,Artist clinic follow-up
+NAW-11172,2025-08-01,FY25 Q3,Southeast,Distributor,Metro Music Supply,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,21,1696.74,0,35631.54,19241.03,16390.51,Medium,Dealer replenishment
+NAW-11173,2025-08-01,FY25 Q3,Southeast,Dealer,Cedar Hall Music,Alex Rivera,Premium Strap,Accessory,Accessory,111,43.78,0,4859.58,2235.41,2624.17,Low,Holiday prebuild
+NAW-11174,2025-08-01,FY25 Q3,Southeast,Education,Blue Ridge Music,Taylor Brooks,Premium Strap,Accessory,Accessory,69,38.53,0.12,2658.57,1222.94,1435.63,High,Holiday prebuild
+NAW-11175,2025-08-01,FY25 Q3,Southeast,E-commerce,Cedar Hall Music,Elliot Chen,Foundry Custom,Guitar,Adirondack/Maple,17,2876.21,0.08,48895.57,23958.83,24936.74,Medium,Back-to-school promotion
+NAW-11288,2025-09-01,FY25 Q3,Southeast,Distributor,Bayfront Studio Gear,Dana Hart,Hardshell Case,Accessory,Case,72,174.08,0.1,12533.76,8146.94,4386.82,High,Dealer replenishment
+NAW-11289,2025-09-01,FY25 Q3,Southeast,Dealer,Desert Tone Co.,Samira Khan,Hardshell Case,Accessory,Case,75,177.95,0.08,13346.25,8675.06,4671.19,Medium,Artist clinic follow-up
+NAW-11290,2025-09-01,FY25 Q3,Southeast,Artist Relations,Blue Ridge Music,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,36,440.72,0,15865.92,10154.19,5711.73,Medium,Accessory attach opportunity
+NAW-11291,2025-09-01,FY25 Q3,Southeast,E-commerce,Riverbend Instruments,Samira Khan,Stage Cutaway,Guitar,Spruce/Ovangkol,8,1027.19,0.03,8217.52,4848.34,3369.18,Low,Holiday prebuild
+NAW-11292,2025-09-01,FY25 Q3,Southeast,Artist Relations,Lakeside Strings,Priya Shah,Trail Mini,Guitar,HPL/Sapele,14,396.65,0.1,5553.1,3553.98,1999.12,High,Accessory attach opportunity
+NAW-11293,2025-09-01,FY25 Q3,Southeast,E-commerce,Metro Music Supply,Elliot Chen,Coated Lifespan Strings,Accessory,String set,46,20.14,0.05,926.44,361.31,565.13,Medium,Artist clinic follow-up
+NAW-11294,2025-09-01,FY25 Q3,Southeast,E-commerce,Soundpost Music,Jordan Lee,Hardshell Case,Accessory,Case,45,187.62,0.03,8442.9,5487.89,2955.01,Low,Artist clinic follow-up
+NAW-11295,2025-09-01,FY25 Q3,Southeast,Distributor,Soundpost Music,Dana Hart,Premium Strap,Accessory,Accessory,20,38.08,0.12,761.6,350.34,411.26,Medium,Holiday prebuild
+NAW-11296,2025-09-01,FY25 Q3,Southeast,Distributor,Bayfront Studio Gear,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,12,1112.86,0.03,13354.32,7745.51,5608.81,Low,Artist clinic follow-up
+NAW-11297,2025-09-01,FY25 Q3,Southeast,Artist Relations,Bayfront Studio Gear,Alex Rivera,Harbor OM,Guitar,Spruce/Rosewood,26,1677.2,0,43607.2,23547.89,20059.31,Medium,Artist clinic follow-up
+NAW-11298,2025-09-01,FY25 Q3,Southeast,Distributor,Copper Canyon Guitars,Casey Morgan,Summit Grand Auditorium,Guitar,Spruce/Walnut,34,1299.26,0.08,44174.84,24737.91,19436.93,Low,Accessory attach opportunity
+NAW-11299,2025-09-01,FY25 Q3,Southeast,E-commerce,Main Street Frets,Riley Stone,Premium Strap,Accessory,Accessory,20,39.81,0.08,796.2,366.25,429.95,High,Dealer replenishment
+NAW-11300,2025-09-01,FY25 Q3,Southeast,Education,Lakeside Strings,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,32,2719.48,0.12,87023.36,42641.45,44381.91,Low,Accessory attach opportunity
+NAW-11301,2025-09-01,FY25 Q3,Southeast,E-commerce,Copper Canyon Guitars,Dana Hart,Trail Mini,Guitar,HPL/Sapele,23,418.68,0.05,9629.64,6162.97,3466.67,Medium,Back-to-school promotion
+NAW-11302,2025-09-01,FY25 Q3,Southeast,Dealer,Bayfront Studio Gear,Alex Rivera,Phosphor Bronze Strings,Accessory,String set,48,12.44,0.12,597.12,250.79,346.33,Medium,Holiday prebuild
+NAW-11303,2025-09-01,FY25 Q3,Southeast,Distributor,Copper Canyon Guitars,Samira Khan,Coated Lifespan Strings,Accessory,String set,127,21.2,0,2692.4,1050.04,1642.36,Medium,Accessory attach opportunity
+NAW-11304,2025-09-01,FY25 Q3,Southeast,Dealer,Soundpost Music,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,16,974.24,0.08,15587.84,9196.83,6391.01,Medium,Dealer replenishment
+NAW-11305,2025-09-01,FY25 Q3,Southeast,E-commerce,Cedar Hall Music,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,5,974.24,0.08,4871.2,2874.01,1997.19,Low,Artist clinic follow-up
+NAW-11306,2025-09-01,FY25 Q3,Southeast,E-commerce,Main Street Frets,Morgan Evans,Coated Lifespan Strings,Accessory,String set,97,20.14,0.05,1953.58,761.9,1191.68,High,Holiday prebuild
+NAW-11307,2025-09-01,FY25 Q3,Southeast,Dealer,Bayfront Studio Gear,Dana Hart,Humidifier Kit,Accessory,Care,58,24.84,0.03,1440.72,619.51,821.21,Low,Dealer replenishment
+NAW-11308,2025-09-01,FY25 Q3,Southeast,Distributor,Lakeside Strings,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,25,1299.26,0.08,32481.5,18189.64,14291.86,High,Accessory attach opportunity
+NAW-11309,2025-09-01,FY25 Q3,Southeast,Dealer,Cedar Hall Music,Jordan Lee,Phosphor Bronze Strings,Accessory,String set,39,12.44,0.12,485.16,203.77,281.39,Low,Back-to-school promotion
+NAW-11310,2025-09-01,FY25 Q3,Southeast,E-commerce,Prairie Note,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,17,1006.01,0.05,17102.17,10090.28,7011.89,Low,Dealer replenishment
+NAW-11311,2025-09-01,FY25 Q3,Southeast,E-commerce,Blue Ridge Music,Morgan Evans,Northstar Ukulele,Instrument,Mahogany,19,308.24,0,5856.56,3572.5,2284.06,Low,Dealer replenishment
+NAW-11312,2025-09-01,FY25 Q3,Southeast,Dealer,Lakeside Strings,Alex Rivera,Stage Cutaway,Guitar,Spruce/Ovangkol,18,974.24,0.08,17536.32,10346.43,7189.89,Medium,Back-to-school promotion
+NAW-11313,2025-09-01,FY25 Q3,Southeast,Artist Relations,Cedar Hall Music,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,26,1299.26,0.08,33780.76,18917.23,14863.53,Low,Dealer replenishment
+NAW-11314,2025-09-01,FY25 Q3,Southeast,Dealer,Metro Music Supply,Elliot Chen,Phosphor Bronze Strings,Accessory,String set,35,13.0,0.08,455.0,191.1,263.9,High,Accessory attach opportunity
+NAW-11315,2025-09-01,FY25 Q3,Southeast,Dealer,Prairie Note,Riley Stone,Hardshell Case,Accessory,Case,112,177.95,0.08,19930.4,12954.76,6975.64,High,Accessory attach opportunity
+NAW-11428,2025-10-01,FY25 Q4,Southeast,Education,Metro Music Supply,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,24,2813.69,0.1,67528.56,33088.99,34439.57,Low,Back-to-school promotion
+NAW-11429,2025-10-01,FY25 Q4,Southeast,Dealer,Metro Music Supply,Casey Morgan,Northstar Ukulele,Instrument,Mahogany,2,280.64,0.1,561.28,342.38,218.9,Medium,Back-to-school promotion
+NAW-11430,2025-10-01,FY25 Q4,Southeast,E-commerce,Prairie Note,Casey Morgan,Premium Strap,Accessory,Accessory,126,41.59,0.05,5240.34,2410.56,2829.78,Low,Accessory attach opportunity
+NAW-11431,2025-10-01,FY25 Q4,Southeast,Distributor,Riverbend Instruments,Casey Morgan,Summit Grand Auditorium,Guitar,Spruce/Walnut,34,1285.82,0.1,43717.88,24482.01,19235.87,High,Accessory attach opportunity
+NAW-11432,2025-10-01,FY25 Q4,Southeast,Distributor,Riverbend Instruments,Jordan Lee,Premium Strap,Accessory,Accessory,77,41.59,0.05,3202.43,1473.12,1729.31,Medium,Artist clinic follow-up
+NAW-11433,2025-10-01,FY25 Q4,Southeast,Distributor,Soundpost Music,Samira Khan,Summit Grand Auditorium,Guitar,Spruce/Walnut,11,1428.69,0,15715.59,8800.73,6914.86,High,Accessory attach opportunity
+NAW-11434,2025-10-01,FY25 Q4,Southeast,E-commerce,Pacific Pick House,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,23,1071.29,0,24639.67,14537.41,10102.26,Low,Artist clinic follow-up
+NAW-11435,2025-10-01,FY25 Q4,Southeast,Dealer,Cedar Hall Music,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,31,1017.73,0.05,31549.63,18614.28,12935.35,Low,Holiday prebuild
+NAW-11436,2025-10-01,FY25 Q4,Southeast,E-commerce,Soundpost Music,Samira Khan,Premium Strap,Accessory,Accessory,134,41.59,0.05,5573.06,2563.61,3009.45,Medium,Artist clinic follow-up
+NAW-11437,2025-10-01,FY25 Q4,Southeast,Artist Relations,Copper Canyon Guitars,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,26,1102.61,0.05,28667.86,16627.36,12040.5,Medium,Accessory attach opportunity
+NAW-11438,2025-10-01,FY25 Q4,Southeast,Education,Desert Tone Co.,Casey Morgan,Stage Cutaway,Guitar,Spruce/Ovangkol,34,1039.15,0.03,35331.1,20845.35,14485.75,High,Dealer replenishment
+NAW-11439,2025-10-01,FY25 Q4,Southeast,Education,Soundpost Music,Alex Rivera,Coated Lifespan Strings,Accessory,String set,62,19.3,0.1,1196.6,466.67,729.93,Low,Holiday prebuild
+NAW-11440,2025-10-01,FY25 Q4,Southeast,Education,Metro Music Supply,Elliot Chen,Hardshell Case,Accessory,Case,87,180.02,0.08,15661.74,10180.13,5481.61,Low,Artist clinic follow-up
+NAW-11441,2025-10-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,29,1561.0,0.08,45269.0,24445.26,20823.74,Medium,Artist clinic follow-up
+NAW-11442,2025-10-01,FY25 Q4,Southeast,Distributor,Pacific Pick House,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,38,1017.73,0.05,38673.74,22817.51,15856.23,Medium,Dealer replenishment
+NAW-11443,2025-10-01,FY25 Q4,Southeast,Education,Pacific Pick House,Casey Morgan,Aurora Dreadnought,Guitar,Spruce/Mahogany,28,1021.37,0.12,28598.36,16587.05,12011.31,Medium,Dealer replenishment
+NAW-11444,2025-10-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,7,964.16,0.1,6749.12,3981.98,2767.14,High,Dealer replenishment
+NAW-11445,2025-10-01,FY25 Q4,Southeast,Distributor,Desert Tone Co.,Casey Morgan,Humidifier Kit,Accessory,Care,155,23.32,0.1,3614.6,1554.28,2060.32,High,Accessory attach opportunity
+NAW-11446,2025-10-01,FY25 Q4,Southeast,Artist Relations,Main Street Frets,Samira Khan,Premium Strap,Accessory,Accessory,61,40.28,0.08,2457.08,1130.26,1326.82,Medium,Accessory attach opportunity
+NAW-11447,2025-10-01,FY25 Q4,Southeast,Distributor,Copper Canyon Guitars,Casey Morgan,Humidifier Kit,Accessory,Care,54,24.62,0.05,1329.48,571.68,757.8,High,Back-to-school promotion
+NAW-11448,2025-10-01,FY25 Q4,Southeast,Education,Lakeside Strings,Morgan Evans,Northstar Ukulele,Instrument,Mahogany,17,286.88,0.08,4876.96,2974.95,1902.01,Medium,Back-to-school promotion
+NAW-11449,2025-10-01,FY25 Q4,Southeast,E-commerce,Prairie Note,Samira Khan,Hardshell Case,Accessory,Case,45,180.02,0.08,8100.9,5265.59,2835.31,High,Back-to-school promotion
+NAW-11450,2025-10-01,FY25 Q4,Southeast,Artist Relations,Copper Canyon Guitars,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,11,2813.69,0.1,30950.59,15165.79,15784.8,High,Artist clinic follow-up
+NAW-11451,2025-10-01,FY25 Q4,Southeast,Dealer,Blue Ridge Music,Alex Rivera,Premium Strap,Accessory,Accessory,153,43.78,0,6698.34,3081.24,3617.1,Medium,Artist clinic follow-up
+NAW-11452,2025-10-01,FY25 Q4,Southeast,Education,Soundpost Music,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,31,13.15,0.08,407.65,171.21,236.44,Medium,Accessory attach opportunity
+NAW-11453,2025-10-01,FY25 Q4,Southeast,Distributor,Desert Tone Co.,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,29,1102.61,0.05,31975.69,18545.9,13429.79,High,Artist clinic follow-up
+NAW-11454,2025-10-01,FY25 Q4,Southeast,E-commerce,Cedar Hall Music,Jordan Lee,Humidifier Kit,Accessory,Care,74,23.32,0.1,1725.68,742.04,983.64,Medium,Holiday prebuild
+NAW-11455,2025-10-01,FY25 Q4,Southeast,Distributor,Lakeside Strings,Samira Khan,Aurora Dreadnought,Guitar,Spruce/Mahogany,30,1160.64,0,34819.2,20195.14,14624.06,Medium,Back-to-school promotion
+NAW-11568,2025-11-01,FY25 Q4,Southeast,Distributor,Bayfront Studio Gear,Samira Khan,Trail Mini,Guitar,HPL/Sapele,28,459.88,0,12876.64,8241.05,4635.59,High,Holiday prebuild
+NAW-11569,2025-11-01,FY25 Q4,Southeast,E-commerce,Copper Canyon Guitars,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,9,1161.24,0.03,10451.16,6061.67,4389.49,High,Back-to-school promotion
+NAW-11570,2025-11-01,FY25 Q4,Southeast,Artist Relations,Prairie Note,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,15,1105.0,0,16575.0,9779.25,6795.75,Medium,Holiday prebuild
+NAW-11571,2025-11-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Jordan Lee,Premium Strap,Accessory,Accessory,124,43.8,0.03,5431.2,2498.35,2932.85,High,Dealer replenishment
+NAW-11572,2025-11-01,FY25 Q4,Southeast,Dealer,Metro Music Supply,Jordan Lee,Premium Strap,Accessory,Accessory,150,45.16,0,6774.0,3116.04,3657.96,Medium,Back-to-school promotion
+NAW-11573,2025-11-01,FY25 Q4,Southeast,Education,Bayfront Studio Gear,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,35,1326.27,0.1,46419.45,25994.89,20424.56,High,Back-to-school promotion
+NAW-11574,2025-11-01,FY25 Q4,Southeast,Artist Relations,Lakeside Strings,Riley Stone,Premium Strap,Accessory,Accessory,134,45.16,0,6051.44,2783.66,3267.78,Medium,Artist clinic follow-up
+NAW-11575,2025-11-01,FY25 Q4,Southeast,E-commerce,Prairie Note,Dana Hart,Phosphor Bronze Strings,Accessory,String set,138,14.01,0.05,1933.38,812.02,1121.36,Medium,Dealer replenishment
+NAW-11576,2025-11-01,FY25 Q4,Southeast,Education,Soundpost Music,Alex Rivera,Coated Lifespan Strings,Accessory,String set,97,19.91,0.1,1931.27,753.2,1178.07,Medium,Holiday prebuild
+NAW-11577,2025-11-01,FY25 Q4,Southeast,Artist Relations,Bayfront Studio Gear,Jordan Lee,Hardshell Case,Accessory,Case,30,201.83,0,6054.9,3935.68,2119.22,Medium,Back-to-school promotion
+NAW-11578,2025-11-01,FY25 Q4,Southeast,E-commerce,Blue Ridge Music,Elliot Chen,Humidifier Kit,Accessory,Care,126,23.52,0.12,2963.52,1274.31,1689.21,High,Back-to-school promotion
+NAW-11579,2025-11-01,FY25 Q4,Southeast,Distributor,Metro Music Supply,Samira Khan,Harbor OM,Guitar,Spruce/Rosewood,13,1610.11,0.08,20931.43,11302.97,9628.46,Low,Holiday prebuild
+NAW-11580,2025-11-01,FY25 Q4,Southeast,Artist Relations,Copper Canyon Guitars,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,6,3224.68,0,19348.08,9480.56,9867.52,Low,Back-to-school promotion
+NAW-11581,2025-11-01,FY25 Q4,Southeast,Dealer,Lakeside Strings,Morgan Evans,Phosphor Bronze Strings,Accessory,String set,73,13.27,0.1,968.71,406.86,561.85,Medium,Dealer replenishment
+NAW-11582,2025-11-01,FY25 Q4,Southeast,Artist Relations,Bayfront Studio Gear,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1053.5,0.12,35819.0,20775.02,15043.98,Medium,Accessory attach opportunity
+NAW-11583,2025-11-01,FY25 Q4,Southeast,Education,Blue Ridge Music,Elliot Chen,Hardshell Case,Accessory,Case,61,177.61,0.12,10834.21,7042.24,3791.97,Medium,Accessory attach opportunity
+NAW-11584,2025-11-01,FY25 Q4,Southeast,Artist Relations,Prairie Note,Priya Shah,Summit Grand Auditorium,Guitar,Spruce/Walnut,28,1399.96,0.05,39198.88,21951.37,17247.51,Low,Dealer replenishment
+NAW-11585,2025-11-01,FY25 Q4,Southeast,Artist Relations,Metro Music Supply,Casey Morgan,Premium Strap,Accessory,Accessory,21,39.74,0.12,834.54,383.89,450.65,Medium,Holiday prebuild
+NAW-11586,2025-11-01,FY25 Q4,Southeast,Dealer,Desert Tone Co.,Dana Hart,Trail Mini,Guitar,HPL/Sapele,14,436.88,0.05,6116.32,3914.44,2201.88,Medium,Holiday prebuild
+NAW-11587,2025-11-01,FY25 Q4,Southeast,Distributor,Prairie Note,Elliot Chen,Coated Lifespan Strings,Accessory,String set,77,19.91,0.1,1533.07,597.9,935.17,Low,Holiday prebuild
+NAW-11588,2025-11-01,FY25 Q4,Southeast,E-commerce,Cedar Hall Music,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,4,2902.21,0.1,11608.84,5688.33,5920.51,Low,Accessory attach opportunity
+NAW-11589,2025-11-01,FY25 Q4,Southeast,E-commerce,Cedar Hall Music,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,23,1697.61,0.03,39045.03,21084.32,17960.71,Low,Artist clinic follow-up
+NAW-11590,2025-11-01,FY25 Q4,Southeast,Distributor,Prairie Note,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,71,14.75,0,1047.25,439.85,607.4,Medium,Dealer replenishment
+NAW-11591,2025-11-01,FY25 Q4,Southeast,Education,Blue Ridge Music,Taylor Brooks,Hardshell Case,Accessory,Case,58,195.78,0.03,11355.24,7380.91,3974.33,Low,Artist clinic follow-up
+NAW-11592,2025-11-01,FY25 Q4,Southeast,Dealer,Desert Tone Co.,Samira Khan,Harbor OM,Guitar,Spruce/Rosewood,22,1662.61,0.05,36577.42,19751.81,16825.61,Medium,Back-to-school promotion
+NAW-11593,2025-11-01,FY25 Q4,Southeast,Distributor,Blue Ridge Music,Elliot Chen,Hardshell Case,Accessory,Case,25,201.83,0,5045.75,3279.74,1766.01,Low,Holiday prebuild
+NAW-11594,2025-11-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Taylor Brooks,Northstar Ukulele,Instrument,Mahogany,3,311.99,0.03,935.97,570.94,365.03,High,Holiday prebuild
+NAW-11595,2025-11-01,FY25 Q4,Southeast,Distributor,Blue Ridge Music,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,13,446.08,0.03,5799.04,3711.39,2087.65,Low,Holiday prebuild
+NAW-11708,2025-12-01,FY25 Q4,Southeast,Dealer,Desert Tone Co.,Priya Shah,Coated Lifespan Strings,Accessory,String set,88,20.28,0.12,1784.64,696.01,1088.63,Low,Artist clinic follow-up
+NAW-11709,2025-12-01,FY25 Q4,Southeast,E-commerce,Cedar Hall Music,Casey Morgan,Coated Lifespan Strings,Accessory,String set,138,21.89,0.05,3020.82,1178.12,1842.7,Medium,Artist clinic follow-up
+NAW-11710,2025-12-01,FY25 Q4,Southeast,Dealer,Desert Tone Co.,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,131,14.9,0.03,1951.9,819.8,1132.1,Low,Back-to-school promotion
+NAW-11711,2025-12-01,FY25 Q4,Southeast,Artist Relations,Blue Ridge Music,Morgan Evans,Hardshell Case,Accessory,Case,34,199.73,0.05,6790.82,4414.03,2376.79,Low,Accessory attach opportunity
+NAW-11712,2025-12-01,FY25 Q4,Southeast,Artist Relations,Desert Tone Co.,Dana Hart,Coated Lifespan Strings,Accessory,String set,22,23.04,0,506.88,197.68,309.2,Low,Accessory attach opportunity
+NAW-11713,2025-12-01,FY25 Q4,Southeast,Dealer,Cedar Hall Music,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,91,13.82,0.1,1257.62,528.2,729.42,Medium,Dealer replenishment
+NAW-11714,2025-12-01,FY25 Q4,Southeast,E-commerce,Pacific Pick House,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,19,1097.4,0.12,20850.6,12093.35,8757.25,Low,Artist clinic follow-up
+NAW-11715,2025-12-01,FY25 Q4,Southeast,E-commerce,Copper Canyon Guitars,Taylor Brooks,Harbor OM,Guitar,Spruce/Rosewood,2,1640.74,0.1,3281.48,1772.0,1509.48,Low,Accessory attach opportunity
+NAW-11716,2025-12-01,FY25 Q4,Southeast,Education,Lakeside Strings,Elliot Chen,Harbor OM,Guitar,Spruce/Rosewood,33,1731.89,0.05,57152.37,30862.28,26290.09,Medium,Dealer replenishment
+NAW-11717,2025-12-01,FY25 Q4,Southeast,Artist Relations,Metro Music Supply,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,14,1247.04,0,17458.56,10125.96,7332.6,Medium,Holiday prebuild
+NAW-11718,2025-12-01,FY25 Q4,Southeast,Artist Relations,Soundpost Music,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,20,1247.04,0,24940.8,14465.66,10475.14,High,Accessory attach opportunity
+NAW-11719,2025-12-01,FY25 Q4,Southeast,Distributor,Pacific Pick House,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,6,431.14,0.1,2586.84,1655.58,931.26,Medium,Dealer replenishment
+NAW-11720,2025-12-01,FY25 Q4,Southeast,Education,Prairie Note,Elliot Chen,Humidifier Kit,Accessory,Care,54,24.5,0.12,1323.0,568.89,754.11,High,Back-to-school promotion
+NAW-11721,2025-12-01,FY25 Q4,Southeast,E-commerce,Soundpost Music,Elliot Chen,Foundry Custom,Guitar,Adirondack/Maple,32,2955.96,0.12,94590.72,46349.45,48241.27,Low,Dealer replenishment
+NAW-11722,2025-12-01,FY25 Q4,Southeast,Artist Relations,Soundpost Music,Casey Morgan,Summit Grand Auditorium,Guitar,Spruce/Walnut,38,1412.24,0.08,53665.12,30052.47,23612.65,High,Accessory attach opportunity
+NAW-11723,2025-12-01,FY25 Q4,Southeast,E-commerce,Prairie Note,Elliot Chen,Summit Grand Auditorium,Guitar,Spruce/Walnut,25,1458.29,0.05,36457.25,20416.06,16041.19,Low,Accessory attach opportunity
+NAW-11724,2025-12-01,FY25 Q4,Southeast,E-commerce,Riverbend Instruments,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,33,1122.34,0.1,37037.22,21481.59,15555.63,Medium,Back-to-school promotion
+NAW-11725,2025-12-01,FY25 Q4,Southeast,Distributor,Metro Music Supply,Morgan Evans,Northstar Ukulele,Instrument,Mahogany,32,308.24,0.08,9863.68,6016.84,3846.84,High,Dealer replenishment
+NAW-11726,2025-12-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Riley Stone,Aurora Dreadnought,Guitar,Spruce/Mahogany,22,1147.28,0.08,25240.16,14639.29,10600.87,Low,Holiday prebuild
+NAW-11727,2025-12-01,FY25 Q4,Southeast,Dealer,Copper Canyon Guitars,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,23,335.04,0,7705.92,4700.61,3005.31,Medium,Back-to-school promotion
+NAW-11728,2025-12-01,FY25 Q4,Southeast,Dealer,Main Street Frets,Priya Shah,Summit Grand Auditorium,Guitar,Spruce/Walnut,5,1412.24,0.08,7061.2,3954.27,3106.93,Low,Artist clinic follow-up
+NAW-11729,2025-12-01,FY25 Q4,Southeast,Distributor,Bayfront Studio Gear,Alex Rivera,Premium Strap,Accessory,Accessory,125,43.28,0.08,5410.0,2488.6,2921.4,High,Holiday prebuild
+NAW-11730,2025-12-01,FY25 Q4,Southeast,Education,Soundpost Music,Riley Stone,Phosphor Bronze Strings,Accessory,String set,25,15.36,0,384.0,161.28,222.72,Medium,Holiday prebuild
+NAW-11731,2025-12-01,FY25 Q4,Southeast,Dealer,Lakeside Strings,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,43,14.9,0.03,640.7,269.09,371.61,Medium,Accessory attach opportunity
+NAW-11732,2025-12-01,FY25 Q4,Southeast,Education,Riverbend Instruments,Elliot Chen,Foundry Custom,Guitar,Adirondack/Maple,5,3191.09,0.05,15955.45,7818.17,8137.28,Low,Back-to-school promotion
+NAW-11733,2025-12-01,FY25 Q4,Southeast,Education,Soundpost Music,Riley Stone,Humidifier Kit,Accessory,Care,78,26.45,0.05,2063.1,887.13,1175.97,Medium,Artist clinic follow-up
+NAW-11734,2025-12-01,FY25 Q4,Southeast,Dealer,Cedar Hall Music,Riley Stone,Stage Cutaway,Guitar,Spruce/Ovangkol,2,1151.04,0,2302.08,1358.23,943.85,Medium,Accessory attach opportunity
+NAW-11735,2025-12-01,FY25 Q4,Southeast,Dealer,Soundpost Music,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,4,3090.32,0.08,12361.28,6057.03,6304.25,Medium,Dealer replenishment
+NAW-11848,2026-01-01,FY26 Q1,Southeast,Education,Blue Ridge Music,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,5,1167.23,0.1,5836.15,3384.97,2451.18,Low,Artist clinic follow-up
+NAW-11849,2026-01-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Morgan Evans,Phosphor Bronze Strings,Accessory,String set,71,14.38,0.1,1020.98,428.81,592.17,Low,Dealer replenishment
+NAW-11850,2026-01-01,FY26 Q1,Southeast,Artist Relations,Lakeside Strings,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1141.29,0.12,38803.86,22506.24,16297.62,Low,Accessory attach opportunity
+NAW-11851,2026-01-01,FY26 Q1,Southeast,Artist Relations,Pacific Pick House,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,36,1141.29,0.12,41086.44,23830.14,17256.3,Medium,Holiday prebuild
+NAW-11852,2026-01-01,FY26 Q1,Southeast,Education,Main Street Frets,Priya Shah,Phosphor Bronze Strings,Accessory,String set,135,15.5,0.03,2092.5,878.85,1213.65,Medium,Artist clinic follow-up
+NAW-11853,2026-01-01,FY26 Q1,Southeast,Artist Relations,Desert Tone Co.,Elliot Chen,Humidifier Kit,Accessory,Care,67,28.08,0.03,1881.36,808.98,1072.38,Low,Artist clinic follow-up
+NAW-11854,2026-01-01,FY26 Q1,Southeast,Artist Relations,Cedar Hall Music,Elliot Chen,Trail Mini,Guitar,HPL/Sapele,37,448.38,0.1,16590.06,10617.64,5972.42,Medium,Dealer replenishment
+NAW-11855,2026-01-01,FY26 Q1,Southeast,Artist Relations,Lakeside Strings,Morgan Evans,Harbor OM,Guitar,Spruce/Rosewood,20,1668.45,0.12,33369.0,18019.26,15349.74,Medium,Holiday prebuild
+NAW-11856,2026-01-01,FY26 Q1,Southeast,Dealer,Bayfront Studio Gear,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,24,1167.23,0.1,28013.52,16247.84,11765.68,Low,Dealer replenishment
+NAW-11857,2026-01-01,FY26 Q1,Southeast,Distributor,Bayfront Studio Gear,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,20,1167.23,0.1,23344.6,13539.87,9804.73,Low,Back-to-school promotion
+NAW-11858,2026-01-01,FY26 Q1,Southeast,E-commerce,Soundpost Music,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,9,483.26,0.03,4349.34,2783.58,1565.76,Low,Artist clinic follow-up
+NAW-11859,2026-01-01,FY26 Q1,Southeast,Distributor,Blue Ridge Music,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,8,1193.17,0.08,9545.36,5536.31,4009.05,High,Accessory attach opportunity
+NAW-11860,2026-01-01,FY26 Q1,Southeast,Dealer,Main Street Frets,Alex Rivera,Hardshell Case,Accessory,Case,160,201.16,0.08,32185.6,20920.64,11264.96,High,Dealer replenishment
+NAW-11861,2026-01-01,FY26 Q1,Southeast,Artist Relations,Cedar Hall Music,Casey Morgan,Northstar Ukulele,Instrument,Mahogany,3,313.6,0.1,940.8,573.89,366.91,Medium,Artist clinic follow-up
+NAW-11862,2026-01-01,FY26 Q1,Southeast,E-commerce,Cedar Hall Music,Morgan Evans,Trail Mini,Guitar,HPL/Sapele,33,473.29,0.05,15618.57,9995.88,5622.69,Medium,Dealer replenishment
+NAW-11863,2026-01-01,FY26 Q1,Southeast,Dealer,Lakeside Strings,Priya Shah,Humidifier Kit,Accessory,Care,62,28.08,0.03,1740.96,748.61,992.35,Medium,Back-to-school promotion
+NAW-11864,2026-01-01,FY26 Q1,Southeast,Education,Desert Tone Co.,Dana Hart,Phosphor Bronze Strings,Accessory,String set,121,15.97,0,1932.37,811.6,1120.77,Medium,Artist clinic follow-up
+NAW-11865,2026-01-01,FY26 Q1,Southeast,E-commerce,Main Street Frets,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,35,320.57,0.08,11219.95,6844.17,4375.78,High,Artist clinic follow-up
+NAW-11866,2026-01-01,FY26 Q1,Southeast,Artist Relations,Desert Tone Co.,Alex Rivera,Humidifier Kit,Accessory,Care,139,25.48,0.12,3541.72,1522.94,2018.78,Medium,Holiday prebuild
+NAW-11867,2026-01-01,FY26 Q1,Southeast,Artist Relations,Bayfront Studio Gear,Samira Khan,Coated Lifespan Strings,Accessory,String set,144,23.24,0.03,3346.56,1305.16,2041.4,Medium,Back-to-school promotion
+NAW-11868,2026-01-01,FY26 Q1,Southeast,Education,Riverbend Instruments,Jordan Lee,Hardshell Case,Accessory,Case,125,207.72,0.05,25965.0,16877.25,9087.75,Medium,Back-to-school promotion
+NAW-11869,2026-01-01,FY26 Q1,Southeast,Dealer,Lakeside Strings,Dana Hart,Phosphor Bronze Strings,Accessory,String set,73,14.7,0.08,1073.1,450.7,622.4,Low,Back-to-school promotion
+NAW-11870,2026-01-01,FY26 Q1,Southeast,Education,Main Street Frets,Samira Khan,Foundry Custom,Guitar,Adirondack/Maple,24,3144.06,0.1,75457.44,36974.15,38483.29,Low,Back-to-school promotion
+NAW-11871,2026-01-01,FY26 Q1,Southeast,Distributor,Copper Canyon Guitars,Riley Stone,Humidifier Kit,Accessory,Care,143,28.95,0,4139.85,1780.14,2359.71,Medium,Holiday prebuild
+NAW-11872,2026-01-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Samira Khan,Stage Cutaway,Guitar,Spruce/Ovangkol,14,1101.32,0.08,15418.48,9096.9,6321.58,Low,Holiday prebuild
+NAW-11873,2026-01-01,FY26 Q1,Southeast,Dealer,Cedar Hall Music,Morgan Evans,Hardshell Case,Accessory,Case,87,212.09,0.03,18451.83,11993.69,6458.14,Low,Dealer replenishment
+NAW-11874,2026-01-01,FY26 Q1,Southeast,Artist Relations,Main Street Frets,Dana Hart,Summit Grand Auditorium,Guitar,Spruce/Walnut,19,1516.62,0.05,28815.78,16136.84,12678.94,High,Artist clinic follow-up
+NAW-11875,2026-01-01,FY26 Q1,Southeast,Distributor,Prairie Note,Dana Hart,Hardshell Case,Accessory,Case,80,218.65,0,17492.0,11369.8,6122.2,High,Accessory attach opportunity
+NAW-11988,2026-02-01,FY26 Q1,Southeast,E-commerce,Main Street Frets,Casey Morgan,Hardshell Case,Accessory,Case,157,224.81,0,35295.17,22941.86,12353.31,Low,Dealer replenishment
+NAW-11989,2026-02-01,FY26 Q1,Southeast,E-commerce,Soundpost Music,Morgan Evans,Coated Lifespan Strings,Accessory,String set,135,24.64,0,3326.4,1297.3,2029.1,Low,Accessory attach opportunity
+NAW-11990,2026-02-01,FY26 Q1,Southeast,Education,Riverbend Instruments,Riley Stone,Trail Mini,Guitar,HPL/Sapele,9,496.86,0.03,4471.74,2861.91,1609.83,Low,Accessory attach opportunity
+NAW-11991,2026-02-01,FY26 Q1,Southeast,Artist Relations,Prairie Note,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,25,1226.76,0.08,30669.0,17788.02,12880.98,Medium,Artist clinic follow-up
+NAW-11992,2026-02-01,FY26 Q1,Southeast,Artist Relations,Prairie Note,Morgan Evans,Harbor OM,Guitar,Spruce/Rosewood,3,1754.41,0.1,5263.23,2842.14,2421.09,High,Artist clinic follow-up
+NAW-11993,2026-02-01,FY26 Q1,Southeast,Distributor,Pacific Pick House,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,4,1226.76,0.08,4907.04,2846.08,2060.96,Low,Back-to-school promotion
+NAW-11994,2026-02-01,FY26 Q1,Southeast,E-commerce,Blue Ridge Music,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,115,15.11,0.08,1737.65,729.81,1007.84,Medium,Back-to-school promotion
+NAW-11995,2026-02-01,FY26 Q1,Southeast,E-commerce,Main Street Frets,Jordan Lee,Northstar Ukulele,Instrument,Mahogany,20,329.59,0.08,6591.8,4021.0,2570.8,High,Back-to-school promotion
+NAW-11996,2026-02-01,FY26 Q1,Southeast,E-commerce,Bayfront Studio Gear,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,10,1193.86,0.03,11938.6,7043.77,4894.83,Medium,Accessory attach opportunity
+NAW-11997,2026-02-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,18,1173.42,0.12,21121.56,12250.5,8871.06,High,Artist clinic follow-up
+NAW-11998,2026-02-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Dana Hart,Hardshell Case,Accessory,Case,144,197.83,0.12,28487.52,18516.89,9970.63,Medium,Artist clinic follow-up
+NAW-11999,2026-02-01,FY26 Q1,Southeast,E-commerce,Blue Ridge Music,Dana Hart,Humidifier Kit,Accessory,Care,118,28.28,0.05,3337.04,1434.93,1902.11,Medium,Back-to-school promotion
+NAW-12000,2026-02-01,FY26 Q1,Southeast,E-commerce,Cedar Hall Music,Casey Morgan,Summit Grand Auditorium,Guitar,Spruce/Walnut,34,1559.32,0.05,53016.88,29689.45,23327.43,Medium,Artist clinic follow-up
+NAW-12001,2026-02-01,FY26 Q1,Southeast,Distributor,Blue Ridge Music,Priya Shah,Summit Grand Auditorium,Guitar,Spruce/Walnut,20,1592.15,0.03,31843.0,17832.08,14010.92,Low,Back-to-school promotion
+NAW-12002,2026-02-01,FY26 Q1,Southeast,Education,Pacific Pick House,Dana Hart,Coated Lifespan Strings,Accessory,String set,59,22.17,0.1,1308.03,510.13,797.9,Medium,Artist clinic follow-up
+NAW-12003,2026-02-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Elliot Chen,Hardshell Case,Accessory,Case,135,197.83,0.12,26707.05,17359.58,9347.47,High,Artist clinic follow-up
+NAW-12004,2026-02-01,FY26 Q1,Southeast,Education,Soundpost Music,Dana Hart,Coated Lifespan Strings,Accessory,String set,84,23.4,0.05,1965.6,766.58,1199.02,Medium,Artist clinic follow-up
+NAW-12005,2026-02-01,FY26 Q1,Southeast,Artist Relations,Bayfront Studio Gear,Elliot Chen,Humidifier Kit,Accessory,Care,34,28.28,0.05,961.52,413.45,548.07,Medium,Dealer replenishment
+NAW-12006,2026-02-01,FY26 Q1,Southeast,Distributor,Blue Ridge Music,Riley Stone,Foundry Custom,Guitar,Adirondack/Maple,20,3412.17,0.05,68243.4,33439.27,34804.13,Medium,Back-to-school promotion
+NAW-12007,2026-02-01,FY26 Q1,Southeast,E-commerce,Soundpost Music,Casey Morgan,Northstar Ukulele,Instrument,Mahogany,20,340.34,0.05,6806.8,4152.15,2654.65,Low,Dealer replenishment
+NAW-12008,2026-02-01,FY26 Q1,Southeast,E-commerce,Lakeside Strings,Samira Khan,Hardshell Case,Accessory,Case,135,218.06,0.03,29438.1,19134.76,10303.34,Low,Artist clinic follow-up
+NAW-12009,2026-02-01,FY26 Q1,Southeast,Education,Riverbend Instruments,Priya Shah,Northstar Ukulele,Instrument,Mahogany,26,347.5,0.03,9035.0,5511.35,3523.65,Low,Back-to-school promotion
+NAW-12010,2026-02-01,FY26 Q1,Southeast,Dealer,Prairie Note,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,20,1754.41,0.1,35088.2,18947.63,16140.57,Medium,Accessory attach opportunity
+NAW-12011,2026-02-01,FY26 Q1,Southeast,Distributor,Cedar Hall Music,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,17,1851.88,0.05,31481.96,17000.26,14481.7,Low,Dealer replenishment
+NAW-12012,2026-02-01,FY26 Q1,Southeast,Education,Metro Music Supply,Casey Morgan,Hardshell Case,Accessory,Case,90,224.81,0,20232.9,13151.39,7081.51,Medium,Holiday prebuild
+NAW-12013,2026-02-01,FY26 Q1,Southeast,Dealer,Desert Tone Co.,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,6,3160.75,0.12,18964.5,9292.6,9671.9,Low,Dealer replenishment
+NAW-12014,2026-02-01,FY26 Q1,Southeast,E-commerce,Pacific Pick House,Samira Khan,Premium Strap,Accessory,Accessory,156,44.26,0.12,6904.56,3176.1,3728.46,Low,Dealer replenishment
+NAW-12015,2026-02-01,FY26 Q1,Southeast,Education,Riverbend Instruments,Priya Shah,Stage Cutaway,Guitar,Spruce/Ovangkol,14,1193.86,0.03,16714.04,9861.28,6852.76,Medium,Artist clinic follow-up
+NAW-12128,2026-03-01,FY26 Q1,Southeast,Distributor,Riverbend Instruments,Elliot Chen,Humidifier Kit,Accessory,Care,103,28.56,0.05,2941.68,1264.92,1676.76,Low,Accessory attach opportunity
+NAW-12129,2026-03-01,FY26 Q1,Southeast,Dealer,Copper Canyon Guitars,Morgan Evans,Phosphor Bronze Strings,Accessory,String set,140,16.09,0.03,2252.6,946.09,1306.51,Low,Back-to-school promotion
+NAW-12130,2026-03-01,FY26 Q1,Southeast,Dealer,Blue Ridge Music,Casey Morgan,Stage Cutaway,Guitar,Spruce/Ovangkol,34,1243.12,0,42266.08,24936.99,17329.09,Medium,Holiday prebuild
+NAW-12131,2026-03-01,FY26 Q1,Southeast,Artist Relations,Cedar Hall Music,Dana Hart,Foundry Custom,Guitar,Adirondack/Maple,7,3518.93,0.03,24632.51,12069.93,12562.58,High,Accessory attach opportunity
+NAW-12132,2026-03-01,FY26 Q1,Southeast,Dealer,Main Street Frets,Alex Rivera,Harbor OM,Guitar,Spruce/Rosewood,2,1811.37,0.08,3622.74,1956.28,1666.46,Medium,Accessory attach opportunity
+NAW-12133,2026-03-01,FY26 Q1,Southeast,Distributor,Prairie Note,Samira Khan,Aurora Dreadnought,Guitar,Spruce/Mahogany,24,1212.12,0.1,29090.88,16872.71,12218.17,Low,Accessory attach opportunity
+NAW-12134,2026-03-01,FY26 Q1,Southeast,Education,Bayfront Studio Gear,Samira Khan,Stage Cutaway,Guitar,Spruce/Ovangkol,26,1205.83,0.03,31351.58,18497.43,12854.15,Medium,Accessory attach opportunity
+NAW-12135,2026-03-01,FY26 Q1,Southeast,Distributor,Prairie Note,Samira Khan,Trail Mini,Guitar,HPL/Sapele,19,475.97,0.08,9043.43,5787.8,3255.63,Medium,Dealer replenishment
+NAW-12136,2026-03-01,FY26 Q1,Southeast,Education,Soundpost Music,Priya Shah,Harbor OM,Guitar,Spruce/Rosewood,14,1870.44,0.05,26186.16,14140.53,12045.63,Low,Back-to-school promotion
+NAW-12137,2026-03-01,FY26 Q1,Southeast,Dealer,Prairie Note,Casey Morgan,Harbor OM,Guitar,Spruce/Rosewood,33,1968.88,0,64973.04,35085.44,29887.6,Low,Dealer replenishment
+NAW-12138,2026-03-01,FY26 Q1,Southeast,E-commerce,Copper Canyon Guitars,Riley Stone,Phosphor Bronze Strings,Accessory,String set,75,15.26,0.08,1144.5,480.69,663.81,Low,Dealer replenishment
+NAW-12139,2026-03-01,FY26 Q1,Southeast,Dealer,Prairie Note,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,5,3337.54,0.08,16687.7,8176.97,8510.73,Low,Holiday prebuild
+NAW-12140,2026-03-01,FY26 Q1,Southeast,E-commerce,Bayfront Studio Gear,Morgan Evans,Hardshell Case,Accessory,Case,97,227.06,0,22024.82,14316.13,7708.69,Medium,Artist clinic follow-up
+NAW-12141,2026-03-01,FY26 Q1,Southeast,Distributor,Pacific Pick House,Dana Hart,Phosphor Bronze Strings,Accessory,String set,116,16.59,0,1924.44,808.26,1116.18,Low,Accessory attach opportunity
+NAW-12142,2026-03-01,FY26 Q1,Southeast,Dealer,Main Street Frets,Morgan Evans,Humidifier Kit,Accessory,Care,43,30.07,0,1293.01,555.99,737.02,Medium,Dealer replenishment
+NAW-12143,2026-03-01,FY26 Q1,Southeast,Dealer,Pacific Pick House,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,24,1185.19,0.12,28444.56,16497.84,11946.72,Low,Artist clinic follow-up
+NAW-12144,2026-03-01,FY26 Q1,Southeast,Artist Relations,Prairie Note,Taylor Brooks,Humidifier Kit,Accessory,Care,95,26.46,0.12,2513.7,1080.89,1432.81,High,Dealer replenishment
+NAW-12145,2026-03-01,FY26 Q1,Southeast,Artist Relations,Copper Canyon Guitars,Dana Hart,Premium Strap,Accessory,Accessory,142,48.26,0.05,6852.92,3152.34,3700.58,Medium,Accessory attach opportunity
+NAW-12146,2026-03-01,FY26 Q1,Southeast,Distributor,Riverbend Instruments,Taylor Brooks,Premium Strap,Accessory,Accessory,40,49.28,0.03,1971.2,906.75,1064.45,Low,Back-to-school promotion
+NAW-12147,2026-03-01,FY26 Q1,Southeast,Dealer,Copper Canyon Guitars,Dana Hart,Foundry Custom,Guitar,Adirondack/Maple,12,3518.93,0.03,42227.16,20691.31,21535.85,Medium,Artist clinic follow-up
+NAW-12148,2026-03-01,FY26 Q1,Southeast,Dealer,Blue Ridge Music,Elliot Chen,Summit Grand Auditorium,Guitar,Spruce/Walnut,9,1657.84,0,14920.56,8355.51,6565.05,Low,Accessory attach opportunity
+NAW-12149,2026-03-01,FY26 Q1,Southeast,E-commerce,Riverbend Instruments,Elliot Chen,Coated Lifespan Strings,Accessory,String set,94,24.14,0.03,2269.16,884.97,1384.19,Medium,Back-to-school promotion
+NAW-12150,2026-03-01,FY26 Q1,Southeast,E-commerce,Desert Tone Co.,Priya Shah,Humidifier Kit,Accessory,Care,157,27.66,0.08,4342.62,1867.33,2475.29,High,Back-to-school promotion
+NAW-12151,2026-03-01,FY26 Q1,Southeast,E-commerce,Main Street Frets,Morgan Evans,Phosphor Bronze Strings,Accessory,String set,77,16.59,0,1277.43,536.52,740.91,Low,Accessory attach opportunity
+NAW-12152,2026-03-01,FY26 Q1,Southeast,Dealer,Prairie Note,Riley Stone,Hardshell Case,Accessory,Case,109,227.06,0,24749.54,16087.2,8662.34,Medium,Dealer replenishment
+NAW-12153,2026-03-01,FY26 Q1,Southeast,E-commerce,Copper Canyon Guitars,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,5,1093.95,0.12,5469.75,3227.15,2242.6,Low,Artist clinic follow-up
+NAW-12154,2026-03-01,FY26 Q1,Southeast,Distributor,Desert Tone Co.,Priya Shah,Hardshell Case,Accessory,Case,20,215.71,0.05,4314.2,2804.23,1509.97,Low,Back-to-school promotion
+NAW-12155,2026-03-01,FY26 Q1,Southeast,Artist Relations,Lakeside Strings,Casey Morgan,Phosphor Bronze Strings,Accessory,String set,56,15.26,0.08,854.56,358.92,495.64,Low,Back-to-school promotion
+NAW-12268,2026-04-01,FY26 Q2,Southeast,Dealer,Pacific Pick House,Jordan Lee,Trail Mini,Guitar,HPL/Sapele,31,496.86,0.03,15402.66,9857.7,5544.96,Medium,Holiday prebuild
+NAW-12269,2026-04-01,FY26 Q2,Southeast,E-commerce,Riverbend Instruments,Riley Stone,Humidifier Kit,Accessory,Care,25,26.79,0.1,669.75,287.99,381.76,Low,Holiday prebuild
+NAW-12270,2026-04-01,FY26 Q2,Southeast,Distributor,Soundpost Music,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,18,1592.15,0.03,28658.7,16048.87,12609.83,High,Accessory attach opportunity
+NAW-12271,2026-04-01,FY26 Q2,Southeast,E-commerce,Desert Tone Co.,Riley Stone,Trail Mini,Guitar,HPL/Sapele,11,512.23,0,5634.53,3606.1,2028.43,Low,Accessory attach opportunity
+NAW-12272,2026-04-01,FY26 Q2,Southeast,E-commerce,Cedar Hall Music,Taylor Brooks,Humidifier Kit,Accessory,Care,115,26.79,0.1,3080.85,1324.77,1756.08,Low,Accessory attach opportunity
+NAW-12273,2026-04-01,FY26 Q2,Southeast,Distributor,Lakeside Strings,Morgan Evans,Premium Strap,Accessory,Accessory,40,47.78,0.05,1911.2,879.15,1032.05,Low,Holiday prebuild
+NAW-12274,2026-04-01,FY26 Q2,Southeast,Distributor,Main Street Frets,Casey Morgan,Stage Cutaway,Guitar,Spruce/Ovangkol,35,1193.86,0.03,41785.1,24653.21,17131.89,High,Accessory attach opportunity
+NAW-12275,2026-04-01,FY26 Q2,Southeast,Distributor,Lakeside Strings,Jordan Lee,Stage Cutaway,Guitar,Spruce/Ovangkol,20,1107.71,0.1,22154.2,13070.98,9083.22,Medium,Back-to-school promotion
+NAW-12276,2026-04-01,FY26 Q2,Southeast,Education,Soundpost Music,Elliot Chen,Stage Cutaway,Guitar,Spruce/Ovangkol,15,1230.79,0,18461.85,10892.49,7569.36,Medium,Dealer replenishment
+NAW-12277,2026-04-01,FY26 Q2,Southeast,Distributor,Cedar Hall Music,Casey Morgan,Premium Strap,Accessory,Accessory,93,50.3,0,4677.9,2151.83,2526.07,Medium,Holiday prebuild
+NAW-12278,2026-04-01,FY26 Q2,Southeast,Artist Relations,Lakeside Strings,Casey Morgan,Summit Grand Auditorium,Guitar,Spruce/Walnut,20,1559.32,0.05,31186.4,17464.38,13722.02,Medium,Accessory attach opportunity
+NAW-12279,2026-04-01,FY26 Q2,Southeast,Distributor,Bayfront Studio Gear,Samira Khan,Hardshell Case,Accessory,Case,150,218.06,0.03,32709.0,21260.85,11448.15,Low,Accessory attach opportunity
+NAW-12280,2026-04-01,FY26 Q2,Southeast,Artist Relations,Main Street Frets,Casey Morgan,Coated Lifespan Strings,Accessory,String set,104,23.4,0.05,2433.6,949.1,1484.5,Low,Accessory attach opportunity
+NAW-12281,2026-04-01,FY26 Q2,Southeast,Distributor,Riverbend Instruments,Samira Khan,Northstar Ukulele,Instrument,Mahogany,7,358.25,0,2507.75,1529.73,978.02,Medium,Accessory attach opportunity
+NAW-12282,2026-04-01,FY26 Q2,Southeast,Distributor,Lakeside Strings,Taylor Brooks,Phosphor Bronze Strings,Accessory,String set,154,14.78,0.1,2276.12,955.97,1320.15,Low,Holiday prebuild
+NAW-12283,2026-04-01,FY26 Q2,Southeast,Dealer,Metro Music Supply,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,32,1754.41,0.1,56141.12,30316.2,25824.92,Low,Holiday prebuild
+NAW-12284,2026-04-01,FY26 Q2,Southeast,Distributor,Main Street Frets,Jordan Lee,Aurora Dreadnought,Guitar,Spruce/Mahogany,28,1333.44,0,37336.32,21655.07,15681.25,Low,Back-to-school promotion
+NAW-12285,2026-04-01,FY26 Q2,Southeast,Distributor,Cedar Hall Music,Samira Khan,Phosphor Bronze Strings,Accessory,String set,35,14.78,0.1,517.3,217.27,300.03,Medium,Artist clinic follow-up
+NAW-12286,2026-04-01,FY26 Q2,Southeast,Artist Relations,Copper Canyon Guitars,Casey Morgan,Coated Lifespan Strings,Accessory,String set,108,22.67,0.08,2448.36,954.86,1493.5,Medium,Dealer replenishment
+NAW-12287,2026-04-01,FY26 Q2,Southeast,Distributor,Pacific Pick House,Priya Shah,Aurora Dreadnought,Guitar,Spruce/Mahogany,28,1200.09,0.1,33602.52,19489.46,14113.06,High,Back-to-school promotion
+NAW-12288,2026-04-01,FY26 Q2,Southeast,Artist Relations,Copper Canyon Guitars,Morgan Evans,Aurora Dreadnought,Guitar,Spruce/Mahogany,38,1266.77,0.05,48137.26,27919.61,20217.65,Medium,Accessory attach opportunity
+NAW-12289,2026-04-01,FY26 Q2,Southeast,Artist Relations,Pacific Pick House,Dana Hart,Foundry Custom,Guitar,Adirondack/Maple,25,3484.01,0.03,87100.25,42679.12,44421.13,Medium,Holiday prebuild
+NAW-12290,2026-04-01,FY26 Q2,Southeast,E-commerce,Bayfront Studio Gear,Elliot Chen,Summit Grand Auditorium,Guitar,Spruce/Walnut,21,1510.08,0.08,31711.68,17758.54,13953.14,High,Accessory attach opportunity
+NAW-12291,2026-04-01,FY26 Q2,Southeast,Education,Riverbend Instruments,Priya Shah,Hardshell Case,Accessory,Case,157,213.57,0.05,33530.49,21794.82,11735.67,Low,Dealer replenishment
+NAW-12292,2026-04-01,FY26 Q2,Southeast,Education,Bayfront Studio Gear,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,12,1173.42,0.12,14081.04,8167.0,5914.04,Low,Artist clinic follow-up
+NAW-12293,2026-04-01,FY26 Q2,Southeast,Artist Relations,Blue Ridge Music,Riley Stone,Aurora Dreadnought,Guitar,Spruce/Mahogany,28,1266.77,0.05,35469.56,20572.34,14897.22,Low,Holiday prebuild
+NAW-12294,2026-04-01,FY26 Q2,Southeast,E-commerce,Lakeside Strings,Riley Stone,Phosphor Bronze Strings,Accessory,String set,57,15.6,0.05,889.2,373.46,515.74,Medium,Accessory attach opportunity
+NAW-12295,2026-04-01,FY26 Q2,Southeast,E-commerce,Bayfront Studio Gear,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,18,1333.44,0,24001.92,13921.11,10080.81,Low,Holiday prebuild
+NAW-12408,2026-05-01,FY26 Q2,Southeast,E-commerce,Soundpost Music,Priya Shah,Northstar Ukulele,Instrument,Mahogany,2,331.02,0.05,662.04,403.84,258.2,High,Artist clinic follow-up
+NAW-12409,2026-05-01,FY26 Q2,Southeast,Dealer,Cedar Hall Music,Taylor Brooks,Coated Lifespan Strings,Accessory,String set,124,22.04,0.08,2732.96,1065.85,1667.11,Low,Dealer replenishment
+NAW-12410,2026-05-01,FY26 Q2,Southeast,Education,Desert Tone Co.,Taylor Brooks,Northstar Ukulele,Instrument,Mahogany,8,306.63,0.12,2453.04,1496.35,956.69,High,Accessory attach opportunity
+NAW-12411,2026-05-01,FY26 Q2,Southeast,Distributor,Riverbend Instruments,Casey Morgan,Premium Strap,Accessory,Accessory,21,48.92,0,1027.32,472.57,554.75,Low,Holiday prebuild
+NAW-12412,2026-05-01,FY26 Q2,Southeast,Distributor,Soundpost Music,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,32,1232.08,0.05,39426.56,22867.4,16559.16,Low,Accessory attach opportunity
+NAW-12413,2026-05-01,FY26 Q2,Southeast,E-commerce,Soundpost Music,Morgan Evans,Foundry Custom,Guitar,Adirondack/Maple,14,3493.4,0,48907.6,23964.72,24942.88,Low,Accessory attach opportunity
+NAW-12414,2026-05-01,FY26 Q2,Southeast,Artist Relations,Blue Ridge Music,Taylor Brooks,Foundry Custom,Guitar,Adirondack/Maple,15,3493.4,0,52401.0,25676.49,26724.51,Medium,Back-to-school promotion
+NAW-12415,2026-05-01,FY26 Q2,Southeast,Dealer,Bayfront Studio Gear,Alex Rivera,Summit Grand Auditorium,Guitar,Spruce/Walnut,9,1436.8,0.1,12931.2,7241.47,5689.73,Medium,Dealer replenishment
+NAW-12416,2026-05-01,FY26 Q2,Southeast,Distributor,Desert Tone Co.,Morgan Evans,Summit Grand Auditorium,Guitar,Spruce/Walnut,19,1404.87,0.12,26692.53,14947.82,11744.71,Medium,Artist clinic follow-up
+NAW-12417,2026-05-01,FY26 Q2,Southeast,E-commerce,Metro Music Supply,Dana Hart,Stage Cutaway,Guitar,Spruce/Ovangkol,20,1101.32,0.08,22026.4,12995.58,9030.82,Medium,Artist clinic follow-up
+NAW-12418,2026-05-01,FY26 Q2,Southeast,E-commerce,Desert Tone Co.,Dana Hart,Harbor OM,Guitar,Spruce/Rosewood,6,1839.08,0.03,11034.48,5958.62,5075.86,Medium,Back-to-school promotion
+NAW-12419,2026-05-01,FY26 Q2,Southeast,Artist Relations,Pacific Pick House,Taylor Brooks,Hardshell Case,Accessory,Case,42,207.72,0.05,8724.24,5670.76,3053.48,Medium,Holiday prebuild
+NAW-12420,2026-05-01,FY26 Q2,Southeast,Dealer,Lakeside Strings,Priya Shah,Stage Cutaway,Guitar,Spruce/Ovangkol,31,1077.37,0.1,33398.47,19705.1,13693.37,High,Artist clinic follow-up
+NAW-12421,2026-05-01,FY26 Q2,Southeast,Distributor,Copper Canyon Guitars,Taylor Brooks,Aurora Dreadnought,Guitar,Spruce/Mahogany,32,1193.17,0.08,38181.44,22145.24,16036.2,High,Holiday prebuild
+NAW-12422,2026-05-01,FY26 Q2,Southeast,Dealer,Cedar Hall Music,Samira Khan,Hardshell Case,Accessory,Case,76,207.72,0.05,15786.72,10261.37,5525.35,Low,Back-to-school promotion
+NAW-12423,2026-05-01,FY26 Q2,Southeast,Distributor,Pacific Pick House,Dana Hart,Summit Grand Auditorium,Guitar,Spruce/Walnut,32,1468.73,0.08,46999.36,26319.64,20679.72,Medium,Dealer replenishment
+NAW-12424,2026-05-01,FY26 Q2,Southeast,Education,Pacific Pick House,Jordan Lee,Humidifier Kit,Accessory,Care,128,26.06,0.1,3335.68,1434.34,1901.34,High,Dealer replenishment
+NAW-12425,2026-05-01,FY26 Q2,Southeast,Education,Soundpost Music,Alex Rivera,Premium Strap,Accessory,Accessory,107,45.01,0.08,4816.07,2215.39,2600.68,High,Back-to-school promotion
+NAW-12426,2026-05-01,FY26 Q2,Southeast,Distributor,Prairie Note,Elliot Chen,Aurora Dreadnought,Guitar,Spruce/Mahogany,34,1296.92,0,44095.28,25575.26,18520.02,Medium,Dealer replenishment
+NAW-12427,2026-05-01,FY26 Q2,Southeast,Education,Metro Music Supply,Morgan Evans,Hardshell Case,Accessory,Case,36,196.78,0.1,7084.08,4604.65,2479.43,Low,Accessory attach opportunity
+NAW-12428,2026-05-01,FY26 Q2,Southeast,Dealer,Prairie Note,Jordan Lee,Coated Lifespan Strings,Accessory,String set,21,22.04,0.08,462.84,180.51,282.33,Medium,Dealer replenishment
+NAW-12429,2026-05-01,FY26 Q2,Southeast,Artist Relations,Riverbend Instruments,Riley Stone,Trail Mini,Guitar,HPL/Sapele,15,498.2,0,7473.0,4782.72,2690.28,High,Holiday prebuild
+NAW-12430,2026-05-01,FY26 Q2,Southeast,Distributor,Lakeside Strings,Alex Rivera,Trail Mini,Guitar,HPL/Sapele,15,458.35,0.08,6875.25,4400.16,2475.09,Medium,Artist clinic follow-up
+NAW-12431,2026-05-01,FY26 Q2,Southeast,Dealer,Soundpost Music,Riley Stone,Premium Strap,Accessory,Accessory,107,45.01,0.08,4816.07,2215.39,2600.68,Low,Dealer replenishment
+NAW-12432,2026-05-01,FY26 Q2,Southeast,Artist Relations,Pacific Pick House,Priya Shah,Stage Cutaway,Guitar,Spruce/Ovangkol,9,1161.17,0.03,10450.53,6165.81,4284.72,Low,Artist clinic follow-up
+NAW-12433,2026-05-01,FY26 Q2,Southeast,Artist Relations,Copper Canyon Guitars,Alex Rivera,Aurora Dreadnought,Guitar,Spruce/Mahogany,7,1258.01,0.03,8806.07,5107.52,3698.55,Medium,Accessory attach opportunity
+NAW-12434,2026-05-01,FY26 Q2,Southeast,Artist Relations,Metro Music Supply,Samira Khan,Aurora Dreadnought,Guitar,Spruce/Mahogany,2,1167.23,0.1,2334.46,1353.99,980.47,Low,Back-to-school promotion
+NAW-12435,2026-05-01,FY26 Q2,Southeast,Education,Blue Ridge Music,Casey Morgan,Harbor OM,Guitar,Spruce/Rosewood,36,1839.08,0.03,66206.88,35751.72,30455.16,Medium,Artist clinic follow-up
