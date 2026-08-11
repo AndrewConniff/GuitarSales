@@ -65,26 +65,26 @@ No real customer data, private tenant data, internal URLs, or real company metri
 
 ## Download links
 
-- [sample-data/northeast_regional_sales.csv](sample-data/northeast_regional_sales.csv)
-- [sample-data/southeast_regional_sales.csv](sample-data/southeast_regional_sales.csv)
-- [sample-data/midwest_regional_sales.csv](sample-data/midwest_regional_sales.csv)
-- [sample-data/southwest_regional_sales.csv](sample-data/southwest_regional_sales.csv)
-- [sample-data/west_regional_sales.csv](sample-data/west_regional_sales.csv)
-- [sample-data/all_regions_sales.csv](sample-data/all_regions_sales.csv)
-- [sample-data/northeast_regional_sales.xlsx](sample-data/northeast_regional_sales.xlsx)
-- [sample-data/southeast_regional_sales.xlsx](sample-data/southeast_regional_sales.xlsx)
-- [sample-data/midwest_regional_sales.xlsx](sample-data/midwest_regional_sales.xlsx)
-- [sample-data/southwest_regional_sales.xlsx](sample-data/southwest_regional_sales.xlsx)
-- [sample-data/west_regional_sales.xlsx](sample-data/west_regional_sales.xlsx)
-- [artifacts/Northstar_Acoustic_Works_Sales_Dashboard_Template.xlsx](artifacts/Northstar_Acoustic_Works_Sales_Dashboard_Template.xlsx)
-- [artifacts/Northstar_Wood_Supplies_Availability.xlsx](artifacts/Northstar_Wood_Supplies_Availability.xlsx)
-- [artifacts/Northstar_Sales_Brief_Template.docx](artifacts/Northstar_Sales_Brief_Template.docx)
-- [artifacts/Northstar_Shop_Accident_Response_SOP.docx](artifacts/Northstar_Shop_Accident_Response_SOP.docx)
-- [artifacts/Northstar_Product_Build_Guidelines.docx](artifacts/Northstar_Product_Build_Guidelines.docx)
-- [artifacts/Northstar_GuitarSales_Meeting_Deck.pptx](artifacts/Northstar_GuitarSales_Meeting_Deck.pptx)
-- [setup/sharepoint_safety_agent_config.json](setup/sharepoint_safety_agent_config.json)
-- [setup/chat_build_planning_agent_config.json](setup/chat_build_planning_agent_config.json)
-- [setup/agent_setup_notes.md](setup/agent_setup_notes.md)
+- [sample-data/northeast_regional_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/northeast_regional_sales.csv)
+- [sample-data/southeast_regional_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/southeast_regional_sales.csv)
+- [sample-data/midwest_regional_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/midwest_regional_sales.csv)
+- [sample-data/southwest_regional_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/southwest_regional_sales.csv)
+- [sample-data/west_regional_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/west_regional_sales.csv)
+- [sample-data/all_regions_sales.csv](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/all_regions_sales.csv)
+- [sample-data/northeast_regional_sales.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/northeast_regional_sales.xlsx)
+- [sample-data/southeast_regional_sales.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/southeast_regional_sales.xlsx)
+- [sample-data/midwest_regional_sales.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/midwest_regional_sales.xlsx)
+- [sample-data/southwest_regional_sales.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/southwest_regional_sales.xlsx)
+- [sample-data/west_regional_sales.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/sample-data/west_regional_sales.xlsx)
+- [artifacts/Northstar_Acoustic_Works_Sales_Dashboard_Template.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_Acoustic_Works_Sales_Dashboard_Template.xlsx)
+- [artifacts/Northstar_Wood_Supplies_Availability.xlsx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_Wood_Supplies_Availability.xlsx)
+- [artifacts/Northstar_Sales_Brief_Template.docx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_Sales_Brief_Template.docx)
+- [artifacts/Northstar_Shop_Accident_Response_SOP.docx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_Shop_Accident_Response_SOP.docx)
+- [artifacts/Northstar_Product_Build_Guidelines.docx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_Product_Build_Guidelines.docx)
+- [artifacts/Northstar_GuitarSales_Meeting_Deck.pptx](https://github.com/AndrewConniff/GuitarSales/blob/main/artifacts/Northstar_GuitarSales_Meeting_Deck.pptx)
+- [setup/sharepoint_safety_agent_config.json](https://github.com/AndrewConniff/GuitarSales/blob/main/setup/sharepoint_safety_agent_config.json)
+- [setup/chat_build_planning_agent_config.json](https://github.com/AndrewConniff/GuitarSales/blob/main/setup/chat_build_planning_agent_config.json)
+- [setup/agent_setup_notes.md](https://github.com/AndrewConniff/GuitarSales/blob/main/setup/agent_setup_notes.md)
 
 ## Setup
 
@@ -95,8 +95,8 @@ No real customer data, private tenant data, internal URLs, or real company metri
 
 ## AI transparency
 
-This repository contains AI-generated and human-reviewed demo content. See [AI-CONTENT-DECLARATION.md](AI-CONTENT-DECLARATION.md).
+This repository contains AI-generated and human-reviewed demo content. See [AI-CONTENT-DECLARATION.md](https://github.com/AndrewConniff/GuitarSales/blob/main/AI-CONTENT-DECLARATION.md).
 
 ## License
 
-This repository uses the MIT License. See [LICENSE](LICENSE).
+This repository uses the MIT License. See [LICENSE](https://github.com/AndrewConniff/GuitarSales/blob/main/LICENSE).
